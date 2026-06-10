@@ -1,0 +1,306 @@
+{
+  "_aciklama": "Bot her gun bu kuyruktan 'done=false' sirketleri isler, kurul/yonetim sayfasini kazir, yeni kisileri Sheet'e ekler. Bittikce yeni sirket ekleyebilirsin (gayrimenkul firmasi EKLEME).",
+  "companies": [
+    {
+      "name": "Saudi Arabian Mining (Ma'aden)",
+      "country": "Saudi Arabia",
+      "sector": "Mining",
+      "url": "https://www.maaden.com/discover-us/leadership",
+      "done": true
+    },
+    {
+      "name": "stc Solutions",
+      "country": "Saudi Arabia",
+      "sector": "Tech",
+      "url": "https://www.stcs.com.sa/en/about-us/leadership",
+      "done": true
+    },
+    {
+      "name": "Elm Company",
+      "country": "Saudi Arabia",
+      "sector": "Tech",
+      "url": "https://elm.sa/en/AboutElm/Pages/ExecutiveTeam.aspx",
+      "done": true
+    },
+    {
+      "name": "Tawuniya Insurance",
+      "country": "Saudi Arabia",
+      "sector": "Insurance",
+      "url": "https://www.tawuniya.com/en/web/tawuniya/executive-management",
+      "done": true
+    },
+    {
+      "name": "Bupa Arabia",
+      "country": "Saudi Arabia",
+      "sector": "Insurance",
+      "url": "https://www.bupa.com.sa/en/investor-relations",
+      "done": true
+    },
+    {
+      "name": "Saudi Cement",
+      "country": "Saudi Arabia",
+      "sector": "Cement",
+      "url": "https://www.saudicement.com.sa/en/board-of-directors",
+      "done": true
+    },
+    {
+      "name": "Yamama Cement",
+      "country": "Saudi Arabia",
+      "sector": "Cement",
+      "url": "https://yamamacement.com/en/board-of-directors/",
+      "done": true
+    },
+    {
+      "name": "Mouwasat Medical",
+      "country": "Saudi Arabia",
+      "sector": "Healthcare",
+      "url": "https://www.mouwasat.com/en/about/board-of-directors",
+      "done": true
+    },
+    {
+      "name": "Dallah Healthcare",
+      "country": "Saudi Arabia",
+      "sector": "Healthcare",
+      "url": "https://www.dallah-hospital.com/en/investors",
+      "done": true
+    },
+    {
+      "name": "Leejam Sports (Fitness Time)",
+      "country": "Saudi Arabia",
+      "sector": "Consumer",
+      "url": "https://www.leejam.com.sa/en/board-of-directors",
+      "done": true
+    },
+    {
+      "name": "Extra (United Electronics)",
+      "country": "Saudi Arabia",
+      "sector": "Retail",
+      "url": "https://www.extra.com/en-sa/investor-relations",
+      "done": true
+    },
+    {
+      "name": "Saudi Airlines Catering",
+      "country": "Saudi Arabia",
+      "sector": "Catering",
+      "url": "https://www.saudiacatering.com/en/board-of-directors",
+      "done": true
+    },
+    {
+      "name": "BinDawood Holding",
+      "country": "Saudi Arabia",
+      "sector": "Retail",
+      "url": "https://www.bindawoodholding.com/en/board-of-directors",
+      "done": true
+    },
+    {
+      "name": "Aldrees Petroleum",
+      "country": "Saudi Arabia",
+      "sector": "Energy",
+      "url": "https://www.aldrees.com/en/board-of-directors/",
+      "done": true
+    },
+    {
+      "name": "Aramex",
+      "country": "UAE",
+      "sector": "Logistics",
+      "url": "https://www.aramex.com/us/en/about-us/leadership",
+      "done": true
+    },
+    {
+      "name": "DP World",
+      "country": "UAE",
+      "sector": "Logistics",
+      "url": "https://www.dpworld.com/about-us/leadership",
+      "done": true
+    },
+    {
+      "name": "Emaar Malls / e-commerce excl",
+      "country": "UAE",
+      "sector": "SKIP",
+      "url": "",
+      "done": true
+    },
+    {
+      "name": "Pure Health",
+      "country": "UAE",
+      "sector": "Healthcare",
+      "url": "https://www.purehealth.ae/en/leadership/",
+      "done": true
+    },
+    {
+      "name": "Burjeel Holdings",
+      "country": "UAE",
+      "sector": "Healthcare",
+      "url": "https://burjeelholdings.com/company/leadership/",
+      "done": true
+    },
+    {
+      "name": "NMC / Aster DM Healthcare",
+      "country": "UAE",
+      "sector": "Healthcare",
+      "url": "https://www.asterdmhealthcare.com/about-us/board-of-directors",
+      "done": true
+    },
+    {
+      "name": "Spinneys",
+      "country": "UAE",
+      "sector": "Retail",
+      "url": "https://www.spinneys.com/en-ae/about-us/",
+      "done": true
+    },
+    {
+      "name": "Union Coop",
+      "country": "UAE",
+      "sector": "Retail",
+      "url": "https://www.unioncoop.ae/en/about-us/board-of-directors/",
+      "done": true
+    },
+    {
+      "name": "Orient Insurance (Al-Futtaim)",
+      "country": "UAE",
+      "sector": "Insurance",
+      "url": "https://www.insuranceuae.com/about-us/",
+      "done": true
+    },
+    {
+      "name": "Abu Dhabi Aviation",
+      "country": "UAE",
+      "sector": "Aviation",
+      "url": "https://www.adaviation.com/en/about-us/board-of-directors",
+      "done": true
+    },
+    {
+      "name": "Air Arabia",
+      "country": "UAE",
+      "sector": "Aviation",
+      "url": "https://www.airarabia.com/en/board-directors",
+      "done": true
+    },
+    {
+      "name": "Q Holding / Mubadala units",
+      "country": "UAE",
+      "sector": "Industrial",
+      "url": "https://www.qholding.ae/en/leadership",
+      "done": true
+    },
+    {
+      "name": "Ooredoo Qatar",
+      "country": "Qatar",
+      "sector": "Telecom",
+      "url": "https://www.ooredoo.qa/web/en/about/leadership/",
+      "done": true
+    },
+    {
+      "name": "Vodafone Qatar",
+      "country": "Qatar",
+      "sector": "Telecom",
+      "url": "https://www.vodafone.qa/en/about-us/leadership-team",
+      "done": true
+    },
+    {
+      "name": "Qatar Insurance Company",
+      "country": "Qatar",
+      "sector": "Insurance",
+      "url": "https://www.qic.com.qa/about-us/board-of-directors/",
+      "done": true
+    },
+    {
+      "name": "Gulf International Services",
+      "country": "Qatar",
+      "sector": "Industrial",
+      "url": "https://www.gisqatar.com.qa/board-of-directors/",
+      "done": true
+    },
+    {
+      "name": "Mesaieed Petrochemical",
+      "country": "Qatar",
+      "sector": "Petrochemicals",
+      "url": "https://www.mphc.com.qa/about-us/board-of-directors",
+      "done": true
+    },
+    {
+      "name": "Qatar Cinema & Film",
+      "country": "Qatar",
+      "sector": "Media",
+      "url": "https://www.qatarcinema.com/",
+      "done": true
+    },
+    {
+      "name": "Aamal Company",
+      "country": "Qatar",
+      "sector": "Holding",
+      "url": "https://www.aamal.com.qa/about-us/board-of-directors",
+      "done": true
+    },
+    {
+      "name": "Boursa Kuwait",
+      "country": "Kuwait",
+      "sector": "Capital Markets",
+      "url": "https://www.boursakuwait.com.kw/en/executive-team",
+      "done": true
+    },
+    {
+      "name": "Gulf Insurance Group",
+      "country": "Kuwait",
+      "sector": "Insurance",
+      "url": "https://www.gig.com.kw/en/about-us/board-of-directors",
+      "done": true
+    },
+    {
+      "name": "Kuwait Projects (KIPCO)",
+      "country": "Kuwait",
+      "sector": "Holding",
+      "url": "https://kipco.com/about-us/",
+      "done": true
+    },
+    {
+      "name": "Alimtiaz Investment",
+      "country": "Kuwait",
+      "sector": "Investment",
+      "url": "https://www.alimtiaz.com/en/board-of-directors/",
+      "done": true
+    },
+    {
+      "name": "Bank Muscat",
+      "country": "Oman",
+      "sector": "Banking",
+      "url": "https://www.bankmuscat.com/en/aboutus/Pages/Board-of-Directors.aspx",
+      "done": true
+    },
+    {
+      "name": "Ahli Bank Oman",
+      "country": "Oman",
+      "sector": "Banking",
+      "url": "https://www.ahlibank.om/en/about-us/board-of-directors.aspx",
+      "done": true
+    },
+    {
+      "name": "OQ Group",
+      "country": "Oman",
+      "sector": "Energy",
+      "url": "https://oq.com/en/about-us/leadership",
+      "done": true
+    },
+    {
+      "name": "Ahli United Bank",
+      "country": "Bahrain",
+      "sector": "Banking",
+      "url": "https://www.ahliunited.com/group/about/board-of-directors/",
+      "done": true
+    },
+    {
+      "name": "Aluminium Bahrain (Alba)",
+      "country": "Bahrain",
+      "sector": "Industrial",
+      "url": "https://www.albasmelter.com/about-alba/leadership/board-of-directors",
+      "done": true
+    },
+    {
+      "name": "Bahrain Telecom (Batelco/stc Bahrain)",
+      "country": "Bahrain",
+      "sector": "Telecom",
+      "url": "https://www.btc.com.bh/about-us/board-of-directors/",
+      "done": true
+    }
+  ]
+}

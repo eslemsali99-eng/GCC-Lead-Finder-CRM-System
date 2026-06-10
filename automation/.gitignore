@@ -1,0 +1,4 @@
+config.json
+service_account.json
+*.log
+linkedin_gonderim_kuyrugu_*.csv

@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Gulf Investor CRM — Körfez Yatırımcı Lead Sistemi</title>
+<meta name="description" content="Körfez (GCC) karar vericileri için canlı lead intelligence & CRM paneli. Her 3 saatte otomatik güncellenir." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Sora:wght@600;700;800&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="styles.css" />
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🛢️</text></svg>" />
+</head>
+<body>
+<div id="app">
+  <!-- HEADER -->
+  <header class="topbar">
+    <div class="brand">
+      <div class="logo">GC</div>
+      <div>
+        <h1>Gulf Investor <span>CRM</span></h1>
+        <p class="tagline">Körfez karar vericileri · canlı lead intelligence</p>
+      </div>
+    </div>
+    <div class="topbar-right">
+      <div class="live"><span class="dot"></span> Canlı · <span id="updated">—</span></div>
+      <div class="total-chip"><strong id="total-chip">0</strong> lead</div>
+    </div>
+  </header>
+
+  <!-- STATS -->
+  <section class="stats" id="stats"></section>
+
+  <!-- INSIGHTS -->
+  <section class="insights">
+    <div class="card chart-card">
+      <div class="card-head"><h3>Ülkeye göre dağılım</h3></div>
+      <div id="country-bars" class="bars"></div>
+    </div>
+    <div class="card chart-card">
+      <div class="card-head"><h3>Pozisyona göre</h3></div>
+      <div id="role-bars" class="bars"></div>
+    </div>
+    <div class="card chart-card pipeline">
+      <div class="card-head"><h3>LinkedIn hunisi</h3></div>
+      <div id="funnel"></div>
+    </div>
+  </section>
+
+  <!-- TOOLBAR -->
+  <section class="toolbar">
+    <div class="search">
+      <svg viewBox="0 0 24 24"><path d="M21 21l-4.3-4.3M11 18a7 7 0 100-14 7 7 0 000 14z"/></svg>
+      <input id="search" type="text" placeholder="İsim, şirket veya pozisyon ara…" />
+    </div>
+    <div class="filter-group" id="country-filter"></div>
+    <div class="filter-group" id="role-filter"></div>
+    <div class="filter-group" id="status-filter"></div>
+    <div class="spacer"></div>
+    <div class="result-count"><span id="result-count">0</span> sonuç</div>
+  </section>
+
+  <!-- TABLE -->
+  <section class="table-wrap card">
+    <table id="grid">
+      <thead>
+        <tr>
+          <th data-sort="isim" class="sortable">Kişi</th>
+          <th data-sort="rol" class="sortable">Pozisyon</th>
+          <th data-sort="sirket" class="sortable">Şirket</th>
+          <th data-sort="ulke" class="sortable">Ülke</th>
+          <th data-sort="kabul" class="sortable">Kabul Durumu</th>
+          <th data-sort="durum" class="sortable">Durum</th>
+          <th class="actions-col">İşlem</th>
+        </tr>
+      </thead>
+      <tbody id="rows"></tbody>
+    </table>
+    <div id="empty" class="empty" hidden>Filtreyle eşleşen kayıt yok.</div>
+  </section>
+
+  <footer class="foot">
+    <span>$0 maliyet · Wikidata + Gmail bildirimleri ile otomatik · her 3 saatte güncellenir</span>
+    <span>Eslem Sali · GCC Lead Intelligence</span>
+  </footer>
+</div>
+
+<!-- DETAIL DRAWER -->
+<div id="overlay" class="overlay" hidden></div>
+<aside id="drawer" class="drawer" hidden>
+  <button class="drawer-close" id="drawer-close" aria-label="Kapat">✕</button>
+  <div id="drawer-body"></div>
+</aside>
+
+<script src="app.js"></script>
+</body>
+</html>

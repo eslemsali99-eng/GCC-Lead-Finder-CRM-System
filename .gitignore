@@ -1,0 +1,16 @@
+# Gizli — ASLA commit etme
+automation/config.json
+automation/service_account.json
+
+# Gecici / yerel ciktilar
+*.log
+automation/*.log
+~$*.xlsx
+.DS_Store
+.playwright-cli/
+docs/.playwright-cli/
+
+# Yerel outreach ciktilari (kisisel veri)
+automation/email_taslaklari_*.csv
+automation/email_gonder_*.html
+automation/linkedin_gonderim_kuyrugu_*.csv

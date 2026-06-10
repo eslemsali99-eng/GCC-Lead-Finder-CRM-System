@@ -1,0 +1,24 @@
+{
+  "_aciklama": "Bunu config.json olarak kopyala ve doldur. config.json git'e girmez/paylasilmaz.",
+
+  "google_sheet_id": "BURAYA_GOOGLE_SHEET_ID (URL'deki /d/ ile /edit arasi)",
+  "google_service_account_file": "service_account.json",
+  "worksheet_name": "TUM KISILER",
+
+  "daily_research": {
+    "use_llm": false,
+    "_use_llm_not": "false = SIFIR maliyet (sadece kazima). true yaparsan asagidaki USD limitine takilinca durur.",
+    "daily_llm_usd_cap": 0,
+    "max_companies_per_day": 30,
+    "request_timeout_sec": 15
+  },
+
+  "linkedin": {
+    "sender_first_name": "Eslem",
+    "whatsapp": "+90XXXXXXXXXX",
+    "daily_invite_limit": 25,
+    "_daily_limit_not": "20-30 arasi tut. Fazlasi LinkedIn'de bot algilatir.",
+    "invite_note": "Hi {first}, I work with a small group placing select Turkish real assets (development land, an Aegean villa, a factory) that also qualify for citizenship. Thought it might suit your portfolio — open to connect?",
+    "followup_message": "Thanks for connecting, {first}. We help international investors acquire vetted Turkish assets — development land, an Aegean villa and an operating factory — with Turkish citizenship eligibility. Happy to send a 1-page overview, or if easier reach me on WhatsApp: {whatsapp}. No pressure at all — just reply 'stop' and I won't follow up."
+  }
+}

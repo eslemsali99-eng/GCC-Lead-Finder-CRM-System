@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Planlayicili otomatik e-posta gonderimi (her gun 10:00). SADECE smtp_pass dolu ise gonderir.
+     Aktive: cp com.eslem.gcc-email.plist ~/Library/LaunchAgents/
+             launchctl load ~/Library/LaunchAgents/com.eslem.gcc-email.plist
+     Durdur: launchctl unload ~/Library/LaunchAgents/com.eslem.gcc-email.plist -->
+<plist version="1.0">
+<dict>
+  <key>Label</key><string>com.eslem.gcc-email</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/usr/bin/python3</string>
+    <string>/Users/eslemsali/gcc-lead-finder/automation/email_auto.py</string>
+  </array>
+  <key>WorkingDirectory</key>
+  <string>/Users/eslemsali/gcc-lead-finder/automation</string>
+  <key>StartCalendarInterval</key>
+  <dict><key>Hour</key><integer>10</integer><key>Minute</key><integer>0</integer></dict>
+  <key>StandardOutPath</key>
+  <string>/Users/eslemsali/gcc-lead-finder/automation/email.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/eslemsali/gcc-lead-finder/automation/email.error.log</string>
+</dict>
+</plist>

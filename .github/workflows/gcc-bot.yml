@@ -1,0 +1,54 @@
+name: GCC Lead Bot (7/24)
+
+# Bulutta her 3 saatte bir calisir — laptop kapali olsa da. Elle de tetiklenebilir.
+on:
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write   # guncel veriyi repoya geri yazabilmek icin
+
+concurrency:
+  group: gcc-bot
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Bagimliliklar
+        run: pip install -r automation/requirements.txt
+
+      - name: config.json olustur (secret'tan)
+        env:
+          CONFIG_JSON: ${{ secrets.CONFIG_JSON }}
+        run: |
+          if [ -z "$CONFIG_JSON" ]; then
+            echo "::error::CONFIG_JSON secret bos. Repo Settings > Secrets > Actions'a ekle."
+            exit 1
+          fi
+          printf '%s' "$CONFIG_JSON" > automation/config.json
+
+      - name: Botu calistir (kesif + sheet + web)
+        working-directory: automation
+        run: python run_local.py 30
+
+      - name: Guncel veriyi geri yaz
+        run: |
+          git config user.name "gcc-bot"
+          git config user.email "bot@users.noreply.github.com"
+          rm -f automation/config.json   # gizli, asla commit etme
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Degisiklik yok."
+          else
+            git commit -m "chore: lead verisi guncellendi [skip ci]"
+            git push
+          fi

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Gunluk otomatik arastirma botu (macOS launchd). Her gun 09:00'da calisir, talimat gerekmez.
+     Kurmak: bu dosyadaki YOL'lari kontrol et, sonra:
+       cp com.eslem.gcc-daily.plist ~/Library/LaunchAgents/
+       launchctl load ~/Library/LaunchAgents/com.eslem.gcc-daily.plist
+     Durdurmak: launchctl unload ~/Library/LaunchAgents/com.eslem.gcc-daily.plist -->
+<plist version="1.0">
+<dict>
+  <key>Label</key><string>com.eslem.gcc-daily</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/usr/bin/python3</string>
+    <string>/Users/eslemsali/gcc-lead-finder/automation/run_local.py</string>
+    <string>30</string>
+  </array>
+  <key>WorkingDirectory</key>
+  <string>/Users/eslemsali/gcc-lead-finder/automation</string>
+  <!-- 7/24: her 3 saatte bir (laptop acikken; uykudaysa uyanir uyanmaz). -->
+  <key>StartInterval</key><integer>10800</integer>
+  <key>RunAtLoad</key><true/>
+  <key>StandardOutPath</key>
+  <string>/Users/eslemsali/gcc-lead-finder/automation/bot.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/eslemsali/gcc-lead-finder/automation/bot.error.log</string>
+</dict>
+</plist>
