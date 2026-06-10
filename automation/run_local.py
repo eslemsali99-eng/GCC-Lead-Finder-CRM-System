@@ -99,6 +99,11 @@ def main(max_n=10):
         send_report("Günlük GCC Lead Araştırması", lines)
     except Exception as e:
         print(f"[telegram] {e}")
+    # E-posta zenginlestirme (varsayilan KAPALI; config'de enabled+hunter_api_key ile acilir)
+    try:
+        import email_enrich; email_enrich.main()
+    except Exception as e:
+        print(f"[mail] {e}")
     # LinkedIn kabul takibi (Gmail bildirimlerinden) -> accepted.json'i tazele
     try:
         import linkedin_accept_check; linkedin_accept_check.main()
