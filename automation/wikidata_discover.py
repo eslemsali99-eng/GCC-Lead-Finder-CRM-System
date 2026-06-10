@@ -10,7 +10,13 @@ Akis:
   - merge_into_live(max_new): ULKE-DENGELI ekler (round-robin) -> Suudi baskinligi kirilir,
     her ulkeden duzenli buyur. run_local.py her turda cagrilir.
 """
-import csv, json, os, datetime, time, urllib.request, urllib.parse, urllib.error
+import csv, json, os, datetime, time, re, urllib.request, urllib.parse, urllib.error
+
+# Devlet/ticari-olmayan kurumlar (lead degil) — sirket adinda gecerse atla
+GOV_RE = re.compile(r"\b(ministry|bakanl|authority|otoritesi|royal|national guard|general staff|"
+                    r"council of ministers|armed forces|air force|presidency|municipalit|parliament|"
+                    r"red crescent|\bpolice\b|\barmy\b|\bnavy\b|government|public institution|"
+                    r"emirate of|government of|state of|prince|princes'|royal guard)\b", re.I)
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 LIVE = os.path.join(HERE, "..", "GCC_TUM_KISILER_LIVE.csv")
@@ -59,10 +65,12 @@ def _li_search(name, company):
 
 
 def _company_role_query(qid, prop):
+    # FILTER NOT EXISTS P570 = sadece YAŞAYAN kişiler (ölmüş tarihi figürleri eler — önemli kural)
     return f"""
 SELECT DISTINCT ?personLabel ?companyLabel ?industryLabel WHERE {{
   ?company wdt:P17 wd:{qid} ; wdt:{prop} ?person .
   ?person wdt:P31 wd:Q5 .
+  FILTER NOT EXISTS {{ ?person wdt:P570 ?d }}
   OPTIONAL {{ ?company wdt:P452 ?industry . }}
   SERVICE wikibase:label {{ bd:serviceParam wikibase:language "en". }}
 }} LIMIT 600"""
@@ -74,6 +82,7 @@ def _occupation_query(qid):
 SELECT DISTINCT ?personLabel ?occLabel ?companyLabel WHERE {{
   ?person wdt:P27 wd:{qid} ; wdt:P106 ?occ . VALUES ?occ {{ {occ} }}
   ?person wdt:P31 wd:Q5 .
+  FILTER NOT EXISTS {{ ?person wdt:P570 ?d }}
   OPTIONAL {{ ?person wdt:P108 ?company . }}
   SERVICE wikibase:label {{ bd:serviceParam wikibase:language "en". }}
 }} LIMIT 600"""
@@ -102,6 +111,8 @@ def fetch_all(force=False):
                 comp = b.get("companyLabel", {}).get("value", "").strip()
                 if not name or not comp or name.startswith("Q") or comp.startswith("Q"):
                     continue
+                if GOV_RE.search(comp):   # devlet/ticari-olmayan kurum -> lead degil
+                    continue
                 key = (name.lower(), comp.lower())
                 if key in seen: continue
                 seen.add(key)
@@ -119,6 +130,7 @@ def fetch_all(force=False):
             if not name or name.startswith("Q"): continue
             comp = b.get("companyLabel", {}).get("value", "").strip()
             if comp.startswith("Q"): comp = ""
+            if comp and GOV_RE.search(comp): comp = ""   # devlet kurumu sirket sayilmaz
             role = b.get("occLabel", {}).get("value", "").strip().title() or "Businessperson"
             key = (name.lower(), comp.lower())
             if key in seen: continue
