@@ -163,17 +163,62 @@ tbody td{padding:12px 14px;vertical-align:middle}
 .d-btn.disabled{opacity:.4;pointer-events:none}
 .field{margin-top:11px}
 .field label{display:block;color:var(--faint);font-size:11.5px;margin-bottom:6px}
-.field select,.field textarea{width:100%;background:var(--panel);border:1px solid var(--line);color:var(--txt);
+.field select,.field textarea,.field .txt{width:100%;background:var(--panel);border:1px solid var(--line);color:var(--txt);
   border-radius:10px;padding:10px 12px;font-size:13px;font-family:inherit;resize:vertical}
-.field select:focus,.field textarea:focus{outline:none;border-color:rgba(232,201,105,.5)}
+.field select:focus,.field textarea:focus,.field .txt:focus{outline:none;border-color:rgba(232,201,105,.5)}
 .save-note{color:var(--teal);font-size:11.5px;margin-top:8px;opacity:0;transition:.3s}
 .save-note.show{opacity:1}
 
+/* DIL SECICI */
+.lang{display:inline-flex;background:var(--panel);border:1px solid var(--line);border-radius:999px;padding:3px;gap:2px}
+.lang-btn{background:none;border:none;color:var(--muted);font-family:inherit;font-size:12px;font-weight:600;
+  padding:5px 10px;border-radius:999px;cursor:pointer;transition:.15s}
+.lang-btn:hover{color:var(--txt)}
+.lang-btn.active{background:linear-gradient(135deg,var(--gold),var(--gold2));color:#1a1305}
+
+/* tiklanabilir durum rozeti */
+.badge.clickable{cursor:pointer;transition:.15s}
+.badge.clickable:hover{filter:brightness(1.25);transform:translateY(-1px)}
+
+/* ===== RTL (Arapça) ===== */
+[dir="rtl"] .stat::before{inset:0 0 auto auto}
+[dir="rtl"] .search svg{left:auto;right:13px}
+[dir="rtl"] .search input{padding:11px 40px 11px 14px}
+[dir="rtl"] .drawer{right:auto;left:0;border-left:none;border-right:1px solid var(--line);animation:slideR .28s cubic-bezier(.2,.8,.2,1)}
+[dir="rtl"] .drawer-close{right:auto;left:18px}
+[dir="rtl"] thead th,[dir="rtl"] tbody td{text-align:right}
+[dir="rtl"] .actions-col,[dir="rtl"] .row-actions{justify-content:flex-start}
+@keyframes slideR{from{transform:translateX(-100%)}to{transform:translateX(0)}}
+
+/* ===== RESPONSIVE ===== */
 @media(max-width:1080px){
   .stats{grid-template-columns:repeat(2,1fr)}
   .insights{grid-template-columns:1fr}
 }
-@media(max-width:680px){
-  .stats{grid-template-columns:1fr}
-  thead th:nth-child(2),tbody td:nth-child(2),thead th:nth-child(4),tbody td:nth-child(4){display:none}
+@media(max-width:760px){
+  #app{padding:16px 13px 50px}
+  .topbar{gap:12px}
+  .topbar-right{flex-wrap:wrap;gap:8px}
+  .stats{grid-template-columns:repeat(2,1fr);gap:10px}
+  .stat .v{font-size:24px}
+  .toolbar{gap:8px}
+  .search{min-width:100%;order:-1}
+  .filter-group{overflow-x:auto;flex-wrap:nowrap;-webkit-overflow-scrolling:touch;max-width:100%;padding-bottom:2px}
+  .result-count{display:none}
+
+  /* Tablo -> mobil KART düzeni */
+  #grid thead{display:none}
+  #grid,#grid tbody,#grid tr,#grid td{display:block;width:100%}
+  #grid tr{background:linear-gradient(180deg,var(--panel),var(--panel2));border:1px solid var(--line);
+    border-radius:14px;margin-bottom:11px;padding:6px 4px}
+  #grid td{display:flex;justify-content:space-between;align-items:center;gap:12px;
+    padding:9px 14px;border-bottom:1px solid var(--line2)}
+  #grid td:last-child{border-bottom:none}
+  #grid td::before{content:attr(data-label);color:var(--faint);font-size:11px;font-weight:600;
+    text-transform:uppercase;letter-spacing:.03em;flex-shrink:0}
+  #grid td:first-child::before{display:none}
+  #grid td:first-child{justify-content:flex-start}
+  .row-actions{justify-content:flex-end}
+  [dir="rtl"] #grid td{flex-direction:row-reverse}
 }
+@media(max-width:420px){ .stats{grid-template-columns:1fr} }
