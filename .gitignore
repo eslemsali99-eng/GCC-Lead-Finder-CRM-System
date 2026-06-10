@@ -14,3 +14,6 @@ docs/.playwright-cli/
 automation/email_taslaklari_*.csv
 automation/email_gonder_*.html
 automation/linkedin_gonderim_kuyrugu_*.csv
+
+# Bot her calismada yeniden uretir; repoda gerekmiyor (dashboard data.json kullanir)
+GCC_CRM.xlsx
