@@ -13,10 +13,27 @@ LIVE = os.path.join(HERE, "..", "GCC_TUM_KISILER_LIVE.csv")
 HEADER = ["No","Kategori","Sektor","Isim","Rol","Sirket","Ulke","Yanit Olasiligi","LinkedIn",
           "Sirket Web","Is E-postasi","Telefon","Instagram","Not","Kaynak"]
 
-def _cfg():
+def _full_cfg():
     p = os.path.join(HERE, "config.json")
-    c = json.load(open(p, encoding="utf-8")) if os.path.exists(p) else {}
-    return c.get("email_enrich", {})
+    return json.load(open(p, encoding="utf-8")) if os.path.exists(p) else {}
+
+def _cfg():
+    return _full_cfg().get("email_enrich", {})
+
+def _pursued_keys():
+    """Supabase lead_status'tan peşine düşülen (kabul!=none veya durum dolu) lead anahtarlarını çeker.
+    Kota önce bunlara harcanır. Supabase yoksa boş döner (sıralama etkilenmez)."""
+    sb = _full_cfg().get("supabase", {})
+    url, key = (sb.get("url") or "").strip(), (sb.get("anon_key") or "").strip()
+    if not url or not key: return set()
+    try:
+        req = urllib.request.Request(
+            f"{url}/rest/v1/lead_status?select=key,kabul,durum",
+            headers={"apikey": key, "Authorization": f"Bearer {key}"})
+        data = json.load(urllib.request.urlopen(req, timeout=20))
+        return {r["key"] for r in data if (r.get("kabul") and r["kabul"] != "none") or (r.get("durum") or "").strip()}
+    except Exception:
+        return set()
 
 def _domain_from_url(url):
     m = re.search(r"https?://([^/]+)", url or "")
@@ -60,8 +77,16 @@ def main():
     if not os.path.exists(LIVE):
         print("[mail] LIVE yok."); return
     rows = list(csv.DictReader(open(LIVE, encoding="utf-8-sig")))
+    # Peşine düşülen (işaretli) lead'leri ÖNCE zenginleştir -> sınırlı kota boşa gitmez.
+    # CSV yazma sırası DEĞİŞMEZ (sadece işleme sırası); satır nesneleri yerinde güncellenir.
+    pursued = _pursued_keys()
+    def _rank(r):
+        k = f"{r.get('Isim','').strip().lower()}|{r.get('Sirket','').strip().lower()}"
+        return 0 if k in pursued else 1
+    order = sorted(rows, key=_rank) if pursued else rows
+    if pursued: print(f"[mail] {len(pursued)} işaretli lead önceliklendirildi.")
     enriched = 0
-    for r in rows:
+    for r in order:
         if enriched >= max_n: break
         if (r.get("Is E-postasi") or "").strip(): continue
         first, last = _split_name(r.get("Isim", ""))
