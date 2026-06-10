@@ -90,7 +90,38 @@ const ls=k=>{try{return JSON.parse(localStorage.getItem("gcrm:"+k)||"{}")}catch{
 const lsSet=(k,v)=>localStorage.setItem("gcrm:"+k,JSON.stringify(v));
 const esc=s=>(s==null?"":String(s)).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const keyOf=d=>`${(d.isim||"").toLowerCase()}|${(d.sirket||"").toLowerCase()}`;
-const kabulOf=d=>{const m=ls(keyOf(d)).kabul;return m||d.kabul||"none";};
+
+/* ---- Supabase: cihazlar arası senkron + giriş ---- */
+const SUPA_URL="https://lemozcwcrtfdpgmcbsbl.supabase.co";
+const SUPA_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImxlbW96Y3djcnRmZHBnbWNic2JsIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODEwOTcxMTYsImV4cCI6MjA5NjY3MzExNn0.IWtnRKctqWDQ3VdD-UaVra0X5obtDrfD0JliknG_VzE";
+let SB=null; try{ SB=window.supabase.createClient(SUPA_URL,SUPA_KEY); }catch(e){ console.warn("supabase yok",e); }
+let SESSION=null;
+const STATUS={};   // key -> {kabul,durum,note} (Supabase'ten, tüm cihazlarda ortak)
+
+const getStatus=d=>{const k=keyOf(d); return STATUS[k]||ls(k)||{};};
+const kabulOf=d=>{const s=getStatus(d); return s.kabul||d.kabul||"none";};
+const noteOf=d=>{const s=getStatus(d); return s.note||s.not||"";};
+const durumOf=d=>{const s=getStatus(d); return s.durum||"";};
+
+async function loadStatuses(){
+  if(!SB) return;
+  try{
+    const {data,error}=await SB.from("lead_status").select("key,kabul,durum,note");
+    if(error) throw error;
+    for(const k in STATUS) delete STATUS[k];
+    (data||[]).forEach(r=>{STATUS[r.key]={kabul:r.kabul||"",durum:r.durum||"",note:r.note||""};});
+  }catch(e){ console.warn("status load",e); }
+}
+async function saveStatus(key,patch){
+  const cur=STATUS[key]||ls(key)||{};
+  const next={kabul:cur.kabul||"",durum:cur.durum||"",note:cur.note||cur.not||"",...patch};
+  STATUS[key]=next; lsSet(key,next);   // yerel cache (offline + giriş yoksa)
+  render();
+  if(SB && SESSION){
+    try{ await SB.from("lead_status").upsert({key,...next,updated_at:new Date().toISOString()}); }
+    catch(e){ console.warn("kaydetme hatası",e); }
+  }
+}
 
 /* ---- i18n uygula ---- */
 function applyI18n(){
@@ -108,6 +139,7 @@ async function load(){
     DATA=(j.leads||[]).map((l,i)=>({...l,_i:i,_c:normCountry(l.ulke),_r:normRole(l.rol)}));
     $("#updated").textContent=j.updated||"—"; $("#total-chip").textContent=j.total??DATA.length;
   }catch(e){$("#updated").textContent="—";console.error(e);}
+  await loadStatuses();
   applyI18n(); buildFilters(); render();
 }
 
@@ -136,8 +168,8 @@ function apply(){
   });
   const k=SORT.key,dir=SORT.asc?1:-1;
   FILTERED.sort((a,b)=>{
-    let va=k==="durum"?(ls(keyOf(a)).durum||""):k==="kabul"?kabulOf(a):(a[k]||"");
-    let vb=k==="durum"?(ls(keyOf(b)).durum||""):k==="kabul"?kabulOf(b):(b[k]||"");
+    let va=k==="durum"?durumOf(a):k==="kabul"?kabulOf(a):(a[k]||"");
+    let vb=k==="durum"?durumOf(b):k==="kabul"?kabulOf(b):(b[k]||"");
     return String(va).localeCompare(String(vb),"tr")*dir;
   });
 }
@@ -177,7 +209,7 @@ function renderRows(){
   if(!FILTERED.length){tb.innerHTML="";em.hidden=false;return;} em.hidden=true;
   const L={person:t("thPerson"),role:t("thRole"),company:t("thCompany"),country:t("thCountry"),status:t("thStatus"),note:t("thNote"),action:t("thAction")};
   tb.innerHTML=FILTERED.map(d=>{
-    const kb=kabulOf(d),durum=ls(keyOf(d)).durum||"";
+    const kb=kabulOf(d),durum=durumOf(d);
     return `<tr data-i="${d._i}">
       <td data-label="${L.person}"><div class="person">
         <div class="avatar" style="background:${avatarColor(d.isim)}">${initials(d.isim)}</div>
@@ -198,14 +230,12 @@ function renderRows(){
 
 /* ---- tek-tıkla durum değiştir ---- */
 function cycleStatus(d){
-  const key=keyOf(d), cur=kabulOf(d), next=CYCLE[cur];
-  const s=ls(key); s.kabul=next; lsSet(key,s);
-  render();
+  saveStatus(keyOf(d), {kabul: CYCLE[kabulOf(d)]});
 }
 
 /* ---- drawer ---- */
 function openDrawer(d){
-  const key=keyOf(d),saved=ls(key),kb=kabulOf(d);
+  const key=keyOf(d),saved=getStatus(d),kb=kabulOf(d);
   const wa=`https://wa.me/${WHATSAPP}?text=${encodeURIComponent("Hi "+(d.isim||"")+", ")}`;
   $("#drawer-body").innerHTML=`
     <div class="d-head">
@@ -233,22 +263,52 @@ function openDrawer(d){
       <div class="field"><label>${esc(t("durumL"))}</label>
         <input class="txt" id="d-durum" value="${esc(saved.durum||"")}" placeholder="${esc(t("durumPh"))}"/></div>
       <div class="field"><label>${esc(t("notL"))}</label>
-        <textarea id="d-not" rows="3" placeholder="${esc(t("notPh"))}">${esc(saved.not||"")}</textarea></div>
+        <textarea id="d-not" rows="3" placeholder="${esc(t("notPh"))}">${esc(saved.note||saved.not||"")}</textarea></div>
       <div class="save-note" id="save-note">${esc(t("saved"))}</div></div>`;
   const cp=$("#drawer-body [data-copy]");
   if(cp)cp.onclick=()=>{navigator.clipboard.writeText(cp.dataset.copy);cp.querySelector("span").textContent=t("copied");};
   ["d-kabul","d-durum","d-not"].forEach(id=>{const el=$("#"+id);el.addEventListener(id==="d-kabul"?"change":"input",()=>{
-    lsSet(key,{kabul:$("#d-kabul").value,durum:$("#d-durum").value,not:$("#d-not").value});
-    const sn=$("#save-note");sn.classList.add("show");clearTimeout(window._st);window._st=setTimeout(()=>sn.classList.remove("show"),1200);render();});});
+    saveStatus(key,{kabul:$("#d-kabul").value,durum:$("#d-durum").value,note:$("#d-not").value});
+    const sn=$("#save-note");sn.classList.add("show");clearTimeout(window._st);window._st=setTimeout(()=>sn.classList.remove("show"),1200);});});
   $("#drawer").hidden=false;$("#overlay").hidden=false;
 }
 function closeDrawer(){$("#drawer").hidden=true;$("#overlay").hidden=true;}
 $("#drawer-close").onclick=closeDrawer;$("#overlay").onclick=closeDrawer;
 document.addEventListener("keydown",e=>{if(e.key==="Escape")closeDrawer();});
 
+/* ---- giriş (Supabase auth) ---- */
+async function initAuth(){
+  if(!SB){updateAuthBtn();return;}
+  try{const {data}=await SB.auth.getSession();SESSION=data.session;}catch(e){}
+  SB.auth.onAuthStateChange((_e,s)=>{SESSION=s;updateAuthBtn();});
+  updateAuthBtn();
+}
+function updateAuthBtn(){
+  const b=$("#auth-btn"); if(!b)return;
+  if(SESSION){b.textContent="✓";b.classList.add("in");b.title=(SESSION.user&&SESSION.user.email||"")+" — çıkış";}
+  else{b.textContent="···";b.classList.remove("in");b.title="Giriş (düzenleme için)";}
+}
+function openLogin(){$("#login-modal").hidden=false;$("#login-err").textContent="";$("#login-email").focus();}
+function closeLogin(){$("#login-modal").hidden=true;}
+async function doLogin(){
+  const email=$("#login-email").value.trim(),pass=$("#login-pass").value,err=$("#login-err");
+  if(!SB){err.textContent="Supabase yüklenemedi";return;}
+  err.textContent="…";
+  try{
+    const {error}=await SB.auth.signInWithPassword({email,password:pass});
+    if(error)throw error;
+    closeLogin(); await loadStatuses(); render();
+  }catch(e){err.textContent=(e&&e.message)||"Giriş başarısız";}
+}
+
 /* ---- olaylar ---- */
 $("#search").addEventListener("input",e=>{F.q=e.target.value;render();});
 document.querySelectorAll("th.sortable").forEach(th=>th.onclick=()=>{const k=th.dataset.sort;SORT.asc=SORT.key===k?!SORT.asc:true;SORT.key=k;render();});
 document.querySelectorAll(".lang-btn").forEach(b=>b.onclick=()=>setLang(b.dataset.l));
+$("#auth-btn").onclick=()=>{ if(SESSION){SB.auth.signOut().then(()=>{SESSION=null;updateAuthBtn();render();});} else openLogin(); };
+$("#login-close").onclick=closeLogin;
+$("#login-go").onclick=doLogin;
+$("#login-pass").addEventListener("keydown",e=>{if(e.key==="Enter")doLogin();});
 
+initAuth();
 load();

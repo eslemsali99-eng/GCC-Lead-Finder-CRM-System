@@ -27,6 +27,7 @@
         <button class="lang-btn" data-l="en">EN</button>
         <button class="lang-btn" data-l="ar">AR</button>
       </div>
+      <button class="auth-btn" id="auth-btn" title="Giriş / Çıkış">···</button>
       <div class="live"><span class="dot"></span> <span data-i18n="live">Canlı</span> · <span id="updated">—</span></div>
       <div class="total-chip"><strong id="total-chip">0</strong> <span data-i18n="lead">lead</span></div>
     </div>
@@ -91,6 +92,20 @@
   <div id="drawer-body"></div>
 </aside>
 
+<!-- Giriş modalı (sadece admin düzenleme için) -->
+<div id="login-modal" class="overlay" hidden>
+  <div class="login-card">
+    <button class="drawer-close" id="login-close" aria-label="Close">✕</button>
+    <h3 id="login-title">Yönetici girişi</h3>
+    <p class="login-sub" id="login-sub">Düzenleme yapmak için giriş yap. Herkes listeyi görebilir; sadece sen değiştirebilirsin.</p>
+    <input id="login-email" type="email" placeholder="E-posta" />
+    <input id="login-pass" type="password" placeholder="Şifre" />
+    <button id="login-go" class="login-go">Giriş</button>
+    <div id="login-err" class="login-err"></div>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <script src="app.js"></script>
 </body>
 </html>

@@ -180,6 +180,23 @@ tbody td{padding:12px 14px;vertical-align:middle}
 .badge.clickable{cursor:pointer;transition:.15s}
 .badge.clickable:hover{filter:brightness(1.25);transform:translateY(-1px)}
 
+/* GIRIS butonu + modal */
+.auth-btn{background:var(--panel);border:1px solid var(--line);color:var(--muted);width:34px;height:30px;
+  border-radius:999px;cursor:pointer;font-size:13px;font-family:inherit;transition:.15s}
+.auth-btn:hover{color:var(--gold);border-color:rgba(232,201,105,.4)}
+.auth-btn.in{color:var(--emerald);border-color:rgba(52,211,153,.4)}
+.login-card{position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);width:min(380px,92vw);z-index:60;
+  background:linear-gradient(180deg,var(--bg2),var(--bg));border:1px solid var(--line);border-radius:18px;
+  padding:28px;box-shadow:var(--shadow)}
+.login-card h3{font-family:Sora;font-size:18px;margin-bottom:6px}
+.login-sub{color:var(--muted);font-size:12.5px;margin-bottom:16px;line-height:1.5}
+.login-card input{width:100%;background:var(--panel);border:1px solid var(--line);color:var(--txt);
+  border-radius:10px;padding:11px 13px;font-size:13.5px;font-family:inherit;margin-bottom:10px}
+.login-card input:focus{outline:none;border-color:rgba(232,201,105,.5)}
+.login-go{width:100%;background:linear-gradient(135deg,var(--gold),var(--gold2));color:#1a1305;border:none;
+  font-family:inherit;font-weight:700;font-size:14px;padding:11px;border-radius:10px;cursor:pointer}
+.login-err{color:#f87171;font-size:12px;margin-top:10px;min-height:14px}
+
 /* ===== RTL (Arapça) ===== */
 [dir="rtl"] .stat::before{inset:0 0 auto auto}
 [dir="rtl"] .search svg{left:auto;right:13px}
