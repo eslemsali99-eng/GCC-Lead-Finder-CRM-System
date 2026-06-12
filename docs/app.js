@@ -115,12 +115,49 @@ async function loadStatuses(){
 async function saveStatus(key,patch){
   const cur=STATUS[key]||ls(key)||{};
   const next={kabul:cur.kabul||"",durum:cur.durum||"",note:cur.note||cur.not||"",...patch};
-  STATUS[key]=next; lsSet(key,next);   // yerel cache (offline + giriş yoksa)
+  STATUS[key]=next; lsSet(key,next);   // yerel cache (offline)
   render();
   if(SB && SESSION){
-    try{ await SB.from("lead_status").upsert({key,...next,updated_at:new Date().toISOString()}); }
-    catch(e){ console.warn("kaydetme hatası",e); }
+    try{
+      const {error}=await SB.from("lead_status").upsert({key,...next,updated_at:new Date().toISOString()});
+      if(error) throw error;
+    }catch(e){ toast("⚠ Buluta kaydedilemedi: "+((e&&e.message)||e)); }
+  }else{
+    toast("Senkron için giriş yap →"); openLogin();   // giriş yoksa buluta gitmez!
   }
+}
+
+/* küçük bildirim */
+function toast(msg){
+  let el=$("#toast");
+  if(!el){el=document.createElement("div");el.id="toast";document.body.appendChild(el);}
+  el.textContent=msg; el.classList.add("show");
+  clearTimeout(window._toast); window._toast=setTimeout(()=>el.classList.remove("show"),2600);
+}
+
+/* canlı senkron — bir cihazdaki değişiklik diğerinde anında görünsün */
+function initRealtime(){
+  if(!SB) return;
+  try{
+    SB.channel("ls-sync").on("postgres_changes",
+      {event:"*",schema:"public",table:"lead_status"},
+      payload=>{const r=payload.new; if(r&&r.key){STATUS[r.key]={kabul:r.kabul||"",durum:r.durum||"",note:r.note||""}; render();}}
+    ).subscribe();
+  }catch(e){console.warn("realtime",e);}
+}
+
+/* giriş yapınca: bu cihazdaki yerel işaretleri buluta taşı (kaybolmasın) */
+async function migrateLocal(){
+  if(!SB||!SESSION) return;
+  const ups=[];
+  for(let i=0;i<localStorage.length;i++){
+    const k=localStorage.key(i);
+    if(!k||!k.startsWith("gcrm:")||k==="gcrm:lang") continue;
+    let v; try{v=JSON.parse(localStorage.getItem(k));}catch(e){continue;}
+    if(!v||(!v.kabul&&!v.durum&&!v.note&&!v.not)) continue;
+    ups.push({key:k.slice(5),kabul:v.kabul||"",durum:v.durum||"",note:v.note||v.not||"",updated_at:new Date().toISOString()});
+  }
+  if(ups.length){ try{ await SB.from("lead_status").upsert(ups); toast(ups.length+" yerel işaret buluta taşındı ✓"); }catch(e){console.warn(e);} }
 }
 
 /* ---- i18n uygula ---- */
@@ -129,6 +166,7 @@ function applyI18n(){
   document.querySelectorAll("[data-i18n]").forEach(el=>el.textContent=t(el.dataset.i18n));
   document.querySelectorAll("[data-i18n-ph]").forEach(el=>el.placeholder=t(el.dataset.i18nPh));
   document.querySelectorAll(".lang-btn").forEach(b=>b.classList.toggle("active",b.dataset.l===LANG));
+  updateAuthBtn();
 }
 function setLang(l){LANG=l;localStorage.setItem("gcrm:lang",l);applyI18n();buildFilters();render();}
 
@@ -282,11 +320,13 @@ async function initAuth(){
   try{const {data}=await SB.auth.getSession();SESSION=data.session;}catch(e){}
   SB.auth.onAuthStateChange((_e,s)=>{SESSION=s;updateAuthBtn();});
   updateAuthBtn();
+  initRealtime();
 }
 function updateAuthBtn(){
   const b=$("#auth-btn"); if(!b)return;
-  if(SESSION){b.textContent="✓";b.classList.add("in");b.title=(SESSION.user&&SESSION.user.email||"")+" — çıkış";}
-  else{b.textContent="···";b.classList.remove("in");b.title="Giriş (düzenleme için)";}
+  const L={tr:"Giriş",en:"Login",ar:"دخول"}[LANG]||"Giriş";
+  if(SESSION){const em=(SESSION.user&&SESSION.user.email||"");b.textContent="✓ "+em.split("@")[0];b.classList.add("in");b.title=em+" — çıkış için tıkla";}
+  else{b.textContent="🔒 "+L;b.classList.remove("in");b.title="Düzenleme ve senkron için giriş yap";}
 }
 function openLogin(){$("#login-modal").hidden=false;$("#login-err").textContent="";$("#login-email").focus();}
 function closeLogin(){$("#login-modal").hidden=true;}
@@ -297,7 +337,7 @@ async function doLogin(){
   try{
     const {error}=await SB.auth.signInWithPassword({email,password:pass});
     if(error)throw error;
-    closeLogin(); await loadStatuses(); render();
+    closeLogin(); await migrateLocal(); await loadStatuses(); render();
   }catch(e){err.textContent=(e&&e.message)||"Giriş başarısız";}
 }
 
