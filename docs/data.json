@@ -1,6 +1,6 @@
 {
- "updated": "2026-06-16 18:08",
- "total": 929,
+ "updated": "2026-06-16 21:53",
+ "total": 930,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -12074,6 +12074,19 @@
    "sektor": "",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Saad%20Anwar",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Khalid bin Faisal Al Saud",
+   "rol": "Founder",
+   "sirket": "Abha Prize",
+   "ulke": "Suudi Arabistan",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Khalid%20bin%20Faisal%20Al%20Saud%20Abha%20Prize",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
