@@ -1,6 +1,6 @@
 {
- "updated": "2026-06-20 12:29",
- "total": 930,
+ "updated": "2026-06-20 15:12",
+ "total": 933,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -12087,6 +12087,45 @@
    "sektor": "",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Khalid%20bin%20Faisal%20Al%20Saud%20Abha%20Prize",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Tony Douglas",
+   "rol": "CEO",
+   "sirket": "Riyadh Air",
+   "ulke": "Suudi Arabistan",
+   "sektor": "aviation",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Tony%20Douglas%20Riyadh%20Air",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Moutaz Al-Khayyat",
+   "rol": "Businessperson",
+   "sirket": "Power International Holding",
+   "ulke": "Katar",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Moutaz%20Al-Khayyat%20Power%20International%20Holding",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Ramez Al-Khayyat",
+   "rol": "Businessperson",
+   "sirket": "Power International Holding",
+   "ulke": "Katar",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ramez%20Al-Khayyat%20Power%20International%20Holding",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
