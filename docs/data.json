@@ -1,6 +1,6 @@
 {
- "updated": "2026-06-22 17:11",
- "total": 934,
+ "updated": "2026-06-22 21:50",
+ "total": 935,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -12139,6 +12139,19 @@
    "sektor": "",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Shahida%20Salam%20Pristine%20Private%20School",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Ilies Larbi",
+   "rol": "CEO",
+   "sirket": "Ouinex",
+   "ulke": "BAE",
+   "sektor": "fintech",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ilies%20Larbi%20Ouinex",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
