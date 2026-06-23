@@ -1,6 +1,6 @@
 {
- "updated": "2026-06-23 16:04",
- "total": 935,
+ "updated": "2026-06-23 18:19",
+ "total": 938,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -12152,6 +12152,45 @@
    "sektor": "fintech",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ilies%20Larbi%20Ouinex",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Helen Maffini",
+   "rol": "Founder",
+   "sirket": "MindBE Education",
+   "ulke": "BAE",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Helen%20Maffini%20MindBE%20Education",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Kevin McKenzie",
+   "rol": "Founder",
+   "sirket": "GenZone LLC",
+   "ulke": "BAE",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Kevin%20McKenzie%20GenZone%20LLC",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Shayan Nasiri",
+   "rol": "Founder",
+   "sirket": "GenZone LLC",
+   "ulke": "BAE",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Shayan%20Nasiri%20GenZone%20LLC",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
