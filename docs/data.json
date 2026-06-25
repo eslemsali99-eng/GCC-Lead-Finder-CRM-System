@@ -1,6 +1,6 @@
 {
- "updated": "2026-06-25 18:18",
- "total": 938,
+ "updated": "2026-06-25 21:03",
+ "total": 940,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -12191,6 +12191,32 @@
    "sektor": "",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Shayan%20Nasiri%20GenZone%20LLC",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Amir Syed",
+   "rol": "CEO",
+   "sirket": "FandomWire",
+   "ulke": "BAE",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Amir%20Syed%20FandomWire",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Christopher Pail",
+   "rol": "Founder",
+   "sirket": "SPARQ",
+   "ulke": "BAE",
+   "sektor": "video game industry",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Christopher%20Pail%20SPARQ",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
