@@ -1,6 +1,6 @@
 {
- "updated": "2026-06-26 23:24",
- "total": 940,
+ "updated": "2026-06-27 04:34",
+ "total": 943,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -12217,6 +12217,45 @@
    "sektor": "video game industry",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Christopher%20Pail%20SPARQ",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Amir Syed",
+   "rol": "Founder",
+   "sirket": "Animated Times",
+   "ulke": "BAE",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Amir%20Syed%20Animated%20Times",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Jaafar Abazid",
+   "rol": "Founder",
+   "sirket": "ManTek Technologies",
+   "ulke": "BAE",
+   "sektor": "web development",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Jaafar%20Abazid%20ManTek%20Technologies",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Taifun Kemerci",
+   "rol": "Founder",
+   "sirket": "Tycoons Creators",
+   "ulke": "BAE",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Taifun%20Kemerci%20Tycoons%20Creators",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
