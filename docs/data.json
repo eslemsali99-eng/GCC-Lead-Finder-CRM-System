@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-10 03:31",
- "total": 952,
+ "updated": "2026-07-10 09:46",
+ "total": 954,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -12373,6 +12373,32 @@
    "sektor": "",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Souad%20Al%20Serkal",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Denis Salatin",
+   "rol": "CEO",
+   "sirket": "Lumitech",
+   "ulke": "BAE",
+   "sektor": "software industry",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Denis%20Salatin%20Lumitech",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Mohamed Abdelrazek",
+   "rol": "CEO",
+   "sirket": "ATTO Group",
+   "ulke": "BAE",
+   "sektor": "accounting",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Mohamed%20Abdelrazek%20ATTO%20Group",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
