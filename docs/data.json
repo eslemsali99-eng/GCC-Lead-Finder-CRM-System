@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-11 21:58",
- "total": 954,
+ "updated": "2026-07-12 02:53",
+ "total": 956,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -12399,6 +12399,32 @@
    "sektor": "accounting",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Mohamed%20Abdelrazek%20ATTO%20Group",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Amir Syeed",
+   "rol": "CEO",
+   "sirket": "FandomWire",
+   "ulke": "BAE",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Amir%20Syeed%20FandomWire",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Amir Syeed",
+   "rol": "Founder",
+   "sirket": "Animated Times",
+   "ulke": "BAE",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Amir%20Syeed%20Animated%20Times",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
