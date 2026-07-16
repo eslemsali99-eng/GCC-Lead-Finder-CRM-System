@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-15 22:09",
- "total": 958,
+ "updated": "2026-07-16 02:47",
+ "total": 959,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -12451,6 +12451,19 @@
    "sektor": "privacy",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Anup%20Narayanan%20Security%20Quotient",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Tarifa Al Zaabi",
+   "rol": "CEO",
+   "sirket": "International Center for Biosaline Agriculture",
+   "ulke": "BAE",
+   "sektor": "environment",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Tarifa%20Al%20Zaabi%20International%20Center%20for%20Biosaline%20Agriculture",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
