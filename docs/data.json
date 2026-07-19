@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-18 22:00",
- "total": 959,
+ "updated": "2026-07-19 02:55",
+ "total": 961,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -12464,6 +12464,32 @@
    "sektor": "environment",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Tarifa%20Al%20Zaabi%20International%20Center%20for%20Biosaline%20Agriculture",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Adham Alblooshi",
+   "rol": "CEO",
+   "sirket": "Golden Extreme Group",
+   "ulke": "BAE",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Adham%20Alblooshi%20Golden%20Extreme%20Group",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Jonathan Sémon",
+   "rol": "Founder",
+   "sirket": "GEOTAX",
+   "ulke": "BAE",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Jonathan%20S%C3%A9mon%20GEOTAX",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",

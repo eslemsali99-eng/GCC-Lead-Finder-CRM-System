@@ -1,5 +1,5 @@
 {
- "ts": 1784341979.532985,
+ "ts": 1784429201.668095,
  "people": [
   {
    "isim": "Abdulrahman Abumalih",
@@ -1416,22 +1416,15 @@
    "sektor": ""
   },
   {
-   "isim": "Lateefa Al Waalan",
-   "rol": "Entrepreneur",
+   "isim": "Noha Al-Yousef",
+   "rol": "Businessperson",
    "sirket": "",
    "ulke": "Suudi Arabistan",
    "sektor": ""
   },
   {
-   "isim": "Alaa Balky",
-   "rol": "Entrepreneur",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Hadeel Ayoub",
-   "rol": "Entrepreneur",
+   "isim": "Ulfat Kabani",
+   "rol": "Businessperson",
    "sirket": "",
    "ulke": "Suudi Arabistan",
    "sektor": ""
@@ -1794,15 +1787,22 @@
    "sektor": ""
   },
   {
-   "isim": "Noha Al-Yousef",
-   "rol": "Businessperson",
+   "isim": "Lateefa Al Waalan",
+   "rol": "Entrepreneur",
    "sirket": "",
    "ulke": "Suudi Arabistan",
    "sektor": ""
   },
   {
-   "isim": "Ulfat Kabani",
-   "rol": "Businessperson",
+   "isim": "Alaa Balky",
+   "rol": "Entrepreneur",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Hadeel Ayoub",
+   "rol": "Entrepreneur",
    "sirket": "",
    "ulke": "Suudi Arabistan",
    "sektor": ""
@@ -2077,6 +2077,13 @@
    "isim": "Amir Syeed",
    "rol": "CEO",
    "sirket": "FandomWire",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Adham Alblooshi",
+   "rol": "CEO",
+   "sirket": "Golden Extreme Group",
    "ulke": "BAE",
    "sektor": ""
   },
@@ -2403,6 +2410,13 @@
    "sektor": ""
   },
   {
+   "isim": "Jonathan Sémon",
+   "rol": "Founder",
+   "sirket": "GEOTAX",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
    "isim": "Sally Wally",
    "rol": "Founder",
    "sirket": "S Productions",
@@ -2490,13 +2504,6 @@
    "isim": "Khabib Nurmagomedov",
    "rol": "Founder",
    "sirket": "Send Location",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Sultan bin Mohamed Al-Qasimi",
-   "rol": "Founder",
-   "sirket": "Al Qasimia University",
    "ulke": "BAE",
    "sektor": ""
   },
@@ -2648,18 +2655,18 @@
    "sektor": "cryptocurrency"
   },
   {
-   "isim": "Svenja Maltzahn",
-   "rol": "Founder",
-   "sirket": "Sumea Social",
-   "ulke": "BAE",
-   "sektor": "marketing"
-  },
-  {
    "isim": "Henri Al Helaly",
    "rol": "Founder",
    "sirket": "EXILLIUM DMCC",
    "ulke": "BAE",
    "sektor": "business consulting"
+  },
+  {
+   "isim": "Svenja Maltzahn",
+   "rol": "Founder",
+   "sirket": "Sumea Social",
+   "ulke": "BAE",
+   "sektor": "marketing"
   },
   {
    "isim": "John Sachtouras",
@@ -2944,6 +2951,13 @@
   {
    "isim": "Sultan bin Mohamed Al-Qasimi",
    "rol": "Founder",
+   "sirket": "Al Qasimia University",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Sultan bin Mohamed Al-Qasimi",
+   "rol": "Founder",
    "sirket": "American University of Sharjah",
    "ulke": "BAE",
    "sektor": ""
@@ -2961,6 +2975,174 @@
    "sirket": "Mashreq",
    "ulke": "BAE",
    "sektor": "financial services"
+  },
+  {
+   "isim": "Khaled Salmeen",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Mohamed Juma Al Shamisi",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Noura Al Kaabi",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Amer Al Ahbabi",
+   "rol": "Entrepreneur",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Shipra Neeraj",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Ahmed bin Saeed Al Maktoum",
+   "rol": "Businessperson",
+   "sirket": "British University in Dubai",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Elissa Freiha",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Anas Bukhash",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Ahmed bin Saeed Al Maktoum",
+   "rol": "Businessperson",
+   "sirket": "Dubai Airports Company",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Ahmed bin Saeed Al Maktoum",
+   "rol": "Businessperson",
+   "sirket": "Dubai Aviation City Corporation",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Ahmed bin Saeed Al Maktoum",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Ahmed bin Saeed Al Maktoum",
+   "rol": "Businessperson",
+   "sirket": "Emirates NBD",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Sulaiman Al-Hattlan",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Hamda Alkhajeh",
+   "rol": "Entrepreneur",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Aisha Al-Nooman",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Rasha Al Danhani",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Sultan Al Jaber",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Anwar Mohammed Gargash",
+   "rol": "Businessperson",
+   "sirket": "United Arab Emirates University",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Andrey Melnichenko",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "George Nader",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Sulaiman Al-Fahim",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Majid bin Mohammed Al Maktoum",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Muhammad ibn Sulayem",
+   "rol": "Entrepreneur",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Dr Abdulla Al Nuaimi",
+   "rol": "Entrepreneur",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
   },
   {
    "isim": "Hamdan bin Mohammed Al Maktoum",
@@ -3490,174 +3672,6 @@
   {
    "isim": "Mohammed bin ham",
    "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Khaled Salmeen",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Mohamed Juma Al Shamisi",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Noura Al Kaabi",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Amer Al Ahbabi",
-   "rol": "Entrepreneur",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Shipra Neeraj",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Ahmed bin Saeed Al Maktoum",
-   "rol": "Businessperson",
-   "sirket": "British University in Dubai",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Elissa Freiha",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Anas Bukhash",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Ahmed bin Saeed Al Maktoum",
-   "rol": "Businessperson",
-   "sirket": "Dubai Airports Company",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Ahmed bin Saeed Al Maktoum",
-   "rol": "Businessperson",
-   "sirket": "Dubai Aviation City Corporation",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Ahmed bin Saeed Al Maktoum",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Ahmed bin Saeed Al Maktoum",
-   "rol": "Businessperson",
-   "sirket": "Emirates NBD",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Sulaiman Al-Hattlan",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Hamda Alkhajeh",
-   "rol": "Entrepreneur",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Aisha Al-Nooman",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Rasha Al Danhani",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Sultan Al Jaber",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Anwar Mohammed Gargash",
-   "rol": "Businessperson",
-   "sirket": "United Arab Emirates University",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Andrey Melnichenko",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "George Nader",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Sulaiman Al-Fahim",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Majid bin Mohammed Al Maktoum",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Muhammad ibn Sulayem",
-   "rol": "Entrepreneur",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Dr Abdulla Al Nuaimi",
-   "rol": "Entrepreneur",
    "sirket": "",
    "ulke": "BAE",
    "sektor": ""
