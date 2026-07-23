@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-22 22:17",
- "total": 961,
+ "updated": "2026-07-23 02:56",
+ "total": 963,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -12490,6 +12490,32 @@
    "sektor": "",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Jonathan%20S%C3%A9mon%20GEOTAX",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Pavel Durov",
+   "rol": "CEO",
+   "sirket": "Telegram FZ-LLC",
+   "ulke": "BAE",
+   "sektor": "software industry",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Pavel%20Durov%20Telegram%20FZ-LLC",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Pavel Durov",
+   "rol": "Entrepreneur",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Pavel%20Durov",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
