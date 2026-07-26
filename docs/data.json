@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-25 22:04",
- "total": 963,
+ "updated": "2026-07-26 02:59",
+ "total": 965,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -12516,6 +12516,32 @@
    "sektor": "",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Pavel%20Durov",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Kalpesh Desai",
+   "rol": "Founder",
+   "sirket": "Agile Financial Technologies",
+   "ulke": "BAE",
+   "sektor": "insurtech",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Kalpesh%20Desai%20Agile%20Financial%20Technologies",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Saad bin Saud Al Fuhaid",
+   "rol": "Chairman",
+   "sirket": "Arabian Gulf University",
+   "ulke": "Bahreyn",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Saad%20bin%20Saud%20Al%20Fuhaid%20Arabian%20Gulf%20University",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
