@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-26 22:08",
- "total": 965,
+ "updated": "2026-07-27 03:07",
+ "total": 966,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -12542,6 +12542,19 @@
    "sektor": "",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Saad%20bin%20Saud%20Al%20Fuhaid%20Arabian%20Gulf%20University",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Ashish Thakkar",
+   "rol": "Founder",
+   "sirket": "Mara Group",
+   "ulke": "BAE",
+   "sektor": "conglomerate",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ashish%20Thakkar%20Mara%20Group",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
