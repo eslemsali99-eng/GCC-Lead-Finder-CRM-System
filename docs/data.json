@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-28 22:13",
- "total": 966,
+ "updated": "2026-07-29 02:49",
+ "total": 967,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -12555,6 +12555,19 @@
    "sektor": "conglomerate",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ashish%20Thakkar%20Mara%20Group",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Aleksander Shulgin",
+   "rol": "Founder",
+   "sirket": "Purrweb",
+   "ulke": "BAE",
+   "sektor": "software development",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Aleksander%20Shulgin%20Purrweb",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
