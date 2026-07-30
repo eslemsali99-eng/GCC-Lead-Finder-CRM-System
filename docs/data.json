@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-29 22:10",
- "total": 967,
+ "updated": "2026-07-30 02:36",
+ "total": 969,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -12568,6 +12568,32 @@
    "sektor": "software development",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Aleksander%20Shulgin%20Purrweb",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Ambreen Qureshi",
+   "rol": "Founder",
+   "sirket": "Amber Homes",
+   "ulke": "BAE",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ambreen%20Qureshi%20Amber%20Homes",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Saad Waqas",
+   "rol": "Founder",
+   "sirket": "Amber Homes",
+   "ulke": "BAE",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Saad%20Waqas%20Amber%20Homes",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
