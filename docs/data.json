@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-30 22:16",
- "total": 969,
+ "updated": "2026-07-31 03:01",
+ "total": 971,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -12594,6 +12594,32 @@
    "sektor": "",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Saad%20Waqas%20Amber%20Homes",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Dmitry Kachmar",
+   "rol": "CEO",
+   "sirket": "Playgama",
+   "ulke": "BAE",
+   "sektor": "online advertising",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Dmitry%20Kachmar%20Playgama",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Ihab El Yaman",
+   "rol": "Founder",
+   "sirket": "MEmob+",
+   "ulke": "BAE",
+   "sektor": "Marketing technology",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ihab%20El%20Yaman%20MEmob%2B",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
