@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-31 22:14",
- "total": 971,
+ "updated": "2026-08-01 02:59",
+ "total": 972,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -12620,6 +12620,19 @@
    "sektor": "Marketing technology",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ihab%20El%20Yaman%20MEmob%2B",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Muqtada al-Sadr",
+   "rol": "Founder",
+   "sirket": "Alsadr Host",
+   "ulke": "Suudi Arabistan",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Muqtada%20al-Sadr%20Alsadr%20Host",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
