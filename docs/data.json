@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-03 22:17",
- "total": 972,
+ "updated": "2026-08-04 02:52",
+ "total": 976,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -12633,6 +12633,58 @@
    "sektor": "",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Muqtada%20al-Sadr%20Alsadr%20Host",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Mohamed Al Kooheji",
+   "rol": "CEO",
+   "sirket": "Kooheji Development",
+   "ulke": "Suudi Arabistan",
+   "sektor": "real estate development",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Mohamed%20Al%20Kooheji%20Kooheji%20Development",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Henri Al Helaly",
+   "rol": "Founder",
+   "sirket": "EXILLIUM",
+   "ulke": "BAE",
+   "sektor": "business consulting",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Henri%20Al%20Helaly%20EXILLIUM",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Alik Tarraf",
+   "rol": "Founder",
+   "sirket": "TARRAF PRODUCTIONS",
+   "ulke": "BAE",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Alik%20Tarraf%20TARRAF%20PRODUCTIONS",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Marina Tarraf",
+   "rol": "Founder",
+   "sirket": "TARRAF PRODUCTIONS",
+   "ulke": "BAE",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Marina%20Tarraf%20TARRAF%20PRODUCTIONS",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
