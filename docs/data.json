@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-04 22:20",
- "total": 976,
+ "updated": "2026-08-05 02:42",
+ "total": 979,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -12685,6 +12685,45 @@
    "sektor": "",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Marina%20Tarraf%20TARRAF%20PRODUCTIONS",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Divyank Turakhia",
+   "rol": "Founder",
+   "sirket": "Media.net",
+   "ulke": "BAE",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Divyank%20Turakhia%20Media.net",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Haad Rehman",
+   "rol": "Founder",
+   "sirket": "nuqta.",
+   "ulke": "Katar",
+   "sektor": "web design",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Haad%20Rehman%20nuqta.",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Johannes Weimar",
+   "rol": "Founder",
+   "sirket": "More Life FZCO",
+   "ulke": "BAE",
+   "sektor": "generative engine optimization",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Johannes%20Weimar%20More%20Life%20FZCO",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
