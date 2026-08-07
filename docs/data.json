@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-07 19:05",
- "total": 979,
+ "updated": "2026-08-07 21:48",
+ "total": 980,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -12724,6 +12724,19 @@
    "sektor": "generative engine optimization",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Johannes%20Weimar%20More%20Life%20FZCO",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Ali Alkinani",
+   "rol": "Founder",
+   "sirket": "Bithrah Tech",
+   "ulke": "Suudi Arabistan",
+   "sektor": "software industry",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ali%20Alkinani%20Bithrah%20Tech",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
