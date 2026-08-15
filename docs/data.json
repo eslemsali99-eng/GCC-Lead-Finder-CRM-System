@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-14 21:33",
- "total": 981,
+ "updated": "2026-08-15 01:24",
+ "total": 983,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -12750,6 +12750,32 @@
    "sektor": "photography",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Zahra%20Ali%20Zahra%20Ali%20Photography",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Anand Meena",
+   "rol": "Founder",
+   "sirket": "BlueMint Services",
+   "ulke": "BAE",
+   "sektor": "marketing",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Anand%20Meena%20BlueMint%20Services",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Anwesha Bose",
+   "rol": "Founder",
+   "sirket": "BlueMint Services",
+   "ulke": "BAE",
+   "sektor": "marketing",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Anwesha%20Bose%20BlueMint%20Services",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
