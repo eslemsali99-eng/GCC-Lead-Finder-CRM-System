@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-22 18:39",
- "total": 984,
+ "updated": "2026-08-22 21:32",
+ "total": 987,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -12789,6 +12789,45 @@
    "sektor": "",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Waleed%20bin%20Ibrahim%20Al%20Ibrahim%20MBC%20Group",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Ibrahim Kedir",
+   "rol": "Founder",
+   "sirket": "Jedda Star",
+   "ulke": "BAE",
+   "sektor": "automotive industry",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ibrahim%20Kedir%20Jedda%20Star",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Abdullah Khuraibet",
+   "rol": "Founder",
+   "sirket": "ATYK Studios",
+   "ulke": "Kuveyt",
+   "sektor": "music production",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Abdullah%20Khuraibet%20ATYK%20Studios",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Ibrahim Kedir",
+   "rol": "Founder",
+   "sirket": "GCC Domestic",
+   "ulke": "BAE",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ibrahim%20Kedir%20GCC%20Domestic",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
