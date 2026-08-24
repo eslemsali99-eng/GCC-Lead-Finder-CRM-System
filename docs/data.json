@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-24 12:58",
- "total": 989,
+ "updated": "2026-08-24 15:48",
+ "total": 992,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -12854,6 +12854,45 @@
    "sektor": "",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Riham%20Fouad%20Al%20Ghanim",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Nadeem Akhtar",
+   "rol": "Founder",
+   "sirket": "Crickslab",
+   "ulke": "BAE",
+   "sektor": "sports technology",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Nadeem%20Akhtar%20Crickslab",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Assila Zaher Al Harthy",
+   "rol": "Entrepreneur",
+   "sirket": "",
+   "ulke": "Umman",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Assila%20Zaher%20Al%20Harthy",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Usman Arshaad",
+   "rol": "Founder",
+   "sirket": "Crickslab",
+   "ulke": "BAE",
+   "sektor": "sports technology",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Usman%20Arshaad%20Crickslab",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
