@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-25 09:43",
- "total": 992,
+ "updated": "2026-08-25 12:56",
+ "total": 993,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -12893,6 +12893,19 @@
    "sektor": "sports technology",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Usman%20Arshaad%20Crickslab",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Wahaj Siddiqui",
+   "rol": "Founder",
+   "sirket": "Oblique Consult",
+   "ulke": "Suudi Arabistan",
+   "sektor": "tax",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Wahaj%20Siddiqui%20Oblique%20Consult",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
