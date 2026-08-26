@@ -1,5 +1,5 @@
 {
- "ts": 1787662086.090035,
+ "ts": 1787737333.987383,
  "people": [
   {
    "isim": "Abdulrahman Abumalih",
@@ -1423,21 +1423,21 @@
    "sektor": ""
   },
   {
-   "isim": "Enji Al-Ghazzawi",
-   "rol": "Banker",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Huda Al-Jeraisy",
+   "isim": "Deena Al Faris",
    "rol": "Businessperson",
    "sirket": "",
    "ulke": "Suudi Arabistan",
    "sektor": ""
   },
   {
-   "isim": "Nashwa Taher",
+   "isim": "Fareeda Al-Farisi",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Rasha Hefzi",
    "rol": "Businessperson",
    "sirket": "",
    "ulke": "Suudi Arabistan",
@@ -1766,21 +1766,21 @@
    "sektor": ""
   },
   {
-   "isim": "Deena Al Faris",
+   "isim": "Enji Al-Ghazzawi",
+   "rol": "Banker",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Huda Al-Jeraisy",
    "rol": "Businessperson",
    "sirket": "",
    "ulke": "Suudi Arabistan",
    "sektor": ""
   },
   {
-   "isim": "Fareeda Al-Farisi",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Rasha Hefzi",
+   "isim": "Nashwa Taher",
    "rol": "Businessperson",
    "sirket": "",
    "ulke": "Suudi Arabistan",
@@ -2375,13 +2375,6 @@
    "sektor": ""
   },
   {
-   "isim": "Ulugbek Yuldashev",
-   "rol": "Founder",
-   "sirket": "Awok",
-   "ulke": "BAE",
-   "sektor": "e-commerce"
-  },
-  {
    "isim": "Julian Sperring-Toy",
    "rol": "Founder",
    "sirket": "Ventariom Global",
@@ -2506,6 +2499,13 @@
    "sirket": "ALTA Blockchain Labs",
    "ulke": "BAE",
    "sektor": "cryptocurrency"
+  },
+  {
+   "isim": "Jo An Bito Onon Amen Amen",
+   "rol": "Founder",
+   "sirket": "Formenzo",
+   "ulke": "BAE",
+   "sektor": ""
   },
   {
    "isim": "Svenja Maltzahn",
@@ -2732,6 +2732,13 @@
    "sektor": "real estate development"
   },
   {
+   "isim": "Ulugbek Yuldashev",
+   "rol": "Founder",
+   "sirket": "Awok",
+   "ulke": "BAE",
+   "sektor": "e-commerce"
+  },
+  {
    "isim": "Nadeem Akhtar",
    "rol": "Founder",
    "sirket": "Crickslab",
@@ -2896,13 +2903,6 @@
    "isim": "Sultan Sooud Al-Qassemi",
    "rol": "Founder",
    "sirket": "Barjeel Art Foundation",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Jo An Bito Onon Amen Amen",
-   "rol": "Founder",
-   "sirket": "Formenzo",
    "ulke": "BAE",
    "sektor": ""
   },
