@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-27 00:38",
- "total": 993,
+ "updated": "2026-08-27 14:01",
+ "total": 994,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -12906,6 +12906,19 @@
    "sektor": "tax",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Wahaj%20Siddiqui%20Oblique%20Consult",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Sulaiman Abdul Aziz Al Rajhi",
+   "rol": "Banker",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sulaiman%20Abdul%20Aziz%20Al%20Rajhi",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
