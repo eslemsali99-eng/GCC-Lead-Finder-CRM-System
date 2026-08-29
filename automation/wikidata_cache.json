@@ -1,5 +1,5 @@
 {
- "ts": 1787929091.957131,
+ "ts": 1788012768.165462,
  "people": [
   {
    "isim": "Abdulrahman Abumalih",
@@ -2249,13 +2249,6 @@
    "sektor": "mergers and acquisitions"
   },
   {
-   "isim": "Omar Gull",
-   "rol": "Founder",
-   "sirket": "Cledor",
-   "ulke": "BAE",
-   "sektor": "real estate development"
-  },
-  {
    "isim": "Sarah Koben",
    "rol": "Founder",
    "sirket": "Saint Objets",
@@ -2277,11 +2270,25 @@
    "sektor": ""
   },
   {
-   "isim": "Ibrahim Kedir",
+   "isim": "Tim Jacobs",
    "rol": "Founder",
-   "sirket": "Jedda Star",
+   "sirket": "KTS Global",
    "ulke": "BAE",
-   "sektor": "automotive industry"
+   "sektor": "strategic communication"
+  },
+  {
+   "isim": "Hanane Benkhallouk",
+   "rol": "Founder",
+   "sirket": "Sustain Leadership Consultancy",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Hanane Benkhallouk",
+   "rol": "Founder",
+   "sirket": "Tawazoun",
+   "ulke": "BAE",
+   "sektor": ""
   },
   {
    "isim": "Neill Frank",
@@ -2291,6 +2298,13 @@
    "sektor": "fintech"
   },
   {
+   "isim": "Divyank Turakhia",
+   "rol": "Founder",
+   "sirket": "Media.net",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
    "isim": "Sophie Solmini",
    "rol": "Founder",
    "sirket": "Elite Resilience Coaching",
@@ -2298,18 +2312,11 @@
    "sektor": "substance abuse treatment"
   },
   {
-   "isim": "Elena Agaragimova",
+   "isim": "Henri Al Helaly",
    "rol": "Founder",
-   "sirket": "Bessern",
+   "sirket": "EXILLIUM",
    "ulke": "BAE",
-   "sektor": "educational technology"
-  },
-  {
-   "isim": "Ivan Palomino",
-   "rol": "Founder",
-   "sirket": "Bessern",
-   "ulke": "BAE",
-   "sektor": "educational technology"
+   "sektor": "business consulting"
   },
   {
    "isim": "Jonas Eric Werner",
@@ -2317,13 +2324,6 @@
    "sirket": "Crowd1",
    "ulke": "BAE",
    "sektor": ""
-  },
-  {
-   "isim": "Kalpesh Desai",
-   "rol": "Founder",
-   "sirket": "Agile Financial Technologies",
-   "ulke": "BAE",
-   "sektor": "insurtech"
   },
   {
    "isim": "Naser Taher",
@@ -2340,11 +2340,25 @@
    "sektor": "influencer marketing"
   },
   {
-   "isim": "Junaid Ahmad Khan",
+   "isim": "Aleksei Shchapov",
    "rol": "Founder",
-   "sirket": "EdgeERP Consulting",
+   "sirket": "Pegasus Leaders",
    "ulke": "BAE",
-   "sektor": "management consulting and management services; information technology services"
+   "sektor": "luxury good"
+  },
+  {
+   "isim": "Ahmed Obaid AlMansoori",
+   "rol": "Founder",
+   "sirket": "Holocaust Memorial Gallery in Dubai",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Ahmed Obaid AlMansoori",
+   "rol": "Founder",
+   "sirket": "Crossroad of Civilizations Museum",
+   "ulke": "BAE",
+   "sektor": ""
   },
   {
    "isim": "Ahmad Alnaji",
@@ -2361,18 +2375,18 @@
    "sektor": "e-commerce"
   },
   {
-   "isim": "Nadeem Akhtar",
+   "isim": "Julian Sperring-Toy",
    "rol": "Founder",
-   "sirket": "Crickslab",
+   "sirket": "Ventariom Global",
    "ulke": "BAE",
-   "sektor": "sports technology"
+   "sektor": "financial adviser"
   },
   {
-   "isim": "Usman Arshaad",
+   "isim": "Mondoir",
    "rol": "Founder",
-   "sirket": "Crickslab",
+   "sirket": "Mondoir gallery",
    "ulke": "BAE",
-   "sektor": "sports technology"
+   "sektor": ""
   },
   {
    "isim": "Sunil John",
@@ -2389,13 +2403,6 @@
    "sektor": ""
   },
   {
-   "isim": "Galina Chervyakova Calmon De Siqueira",
-   "rol": "Founder",
-   "sirket": "Neurovexis – Digital E-Commerce Platform",
-   "ulke": "BAE",
-   "sektor": "e-commerce"
-  },
-  {
    "isim": "Florian Bucher",
    "rol": "Founder",
    "sirket": "42",
@@ -2410,18 +2417,11 @@
    "sektor": ""
   },
   {
-   "isim": "Anup Narayanan",
+   "isim": "Lavanya Vikram",
    "rol": "Founder",
-   "sirket": "Security Quotient",
+   "sirket": "Blush N Curls",
    "ulke": "BAE",
-   "sektor": "privacy"
-  },
-  {
-   "isim": "Anand Meena",
-   "rol": "Founder",
-   "sirket": "BlueMint Services",
-   "ulke": "BAE",
-   "sektor": "marketing"
+   "sektor": ""
   },
   {
    "isim": "Special K (SY)",
@@ -2431,9 +2431,9 @@
    "sektor": ""
   },
   {
-   "isim": "Taifun Kemerci",
+   "isim": "Amir Soleymani",
    "rol": "Founder",
-   "sirket": "Tycoons Creators",
+   "sirket": "Mondoir gallery",
    "ulke": "BAE",
    "sektor": ""
   },
@@ -2452,11 +2452,32 @@
    "sektor": "video game industry"
   },
   {
+   "isim": "Jordan Lee",
+   "rol": "Founder",
+   "sirket": "AI Acquisition",
+   "ulke": "BAE",
+   "sektor": "business-to-business"
+  },
+  {
+   "isim": "Yaroslav Ivanov",
+   "rol": "Founder",
+   "sirket": "ALTA Blockchain Labs",
+   "ulke": "BAE",
+   "sektor": "cryptocurrency"
+  },
+  {
    "isim": "Jo An Bito Onon Amen Amen",
    "rol": "Founder",
    "sirket": "Formenzo",
    "ulke": "BAE",
    "sektor": ""
+  },
+  {
+   "isim": "Svenja Maltzahn",
+   "rol": "Founder",
+   "sirket": "Sumea Social",
+   "ulke": "BAE",
+   "sektor": "marketing"
   },
   {
    "isim": "Shahida Salam",
@@ -2478,13 +2499,6 @@
    "sirket": "GEOTAX",
    "ulke": "BAE",
    "sektor": ""
-  },
-  {
-   "isim": "Sally Wally",
-   "rol": "Founder",
-   "sirket": "S Productions",
-   "ulke": "BAE",
-   "sektor": "television production"
   },
   {
    "isim": "Nicolas Sadirac",
@@ -2543,27 +2557,6 @@
    "sektor": ""
   },
   {
-   "isim": "Amir Syeed",
-   "rol": "Founder",
-   "sirket": "Animated Times",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Alik Tarraf",
-   "rol": "Founder",
-   "sirket": "TARRAF PRODUCTIONS",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Marina Tarraf",
-   "rol": "Founder",
-   "sirket": "TARRAF PRODUCTIONS",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
    "isim": "Jules Chasles",
    "rol": "Founder",
    "sirket": "Wusool Capital",
@@ -2576,209 +2569,6 @@
    "sirket": "SPARQ",
    "ulke": "BAE",
    "sektor": "video game industry"
-  },
-  {
-   "isim": "Khabib Nurmagomedov",
-   "rol": "Founder",
-   "sirket": "Send Location",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Anwesha Bose",
-   "rol": "Founder",
-   "sirket": "BlueMint Services",
-   "ulke": "BAE",
-   "sektor": "marketing"
-  },
-  {
-   "isim": "Tim Jacobs",
-   "rol": "Founder",
-   "sirket": "KTS Global",
-   "ulke": "BAE",
-   "sektor": "strategic communication"
-  },
-  {
-   "isim": "Hanane Benkhallouk",
-   "rol": "Founder",
-   "sirket": "Sustain Leadership Consultancy",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Hanane Benkhallouk",
-   "rol": "Founder",
-   "sirket": "Tawazoun",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Ciprian Ciceu",
-   "rol": "Founder",
-   "sirket": "Mainet X",
-   "ulke": "BAE",
-   "sektor": "financial services"
-  },
-  {
-   "isim": "Henri Al Helaly",
-   "rol": "Founder",
-   "sirket": "EXILLIUM",
-   "ulke": "BAE",
-   "sektor": "business consulting"
-  },
-  {
-   "isim": "Magnus Larsson",
-   "rol": "Founder",
-   "sirket": "Alcacor",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Mohamed Al Hashemi",
-   "rol": "Founder",
-   "sirket": "Union Cooperative Society",
-   "ulke": "BAE",
-   "sektor": "retail"
-  },
-  {
-   "isim": "Massari",
-   "rol": "Founder",
-   "sirket": "Universal Music MENA",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Aleksei Shchapov",
-   "rol": "Founder",
-   "sirket": "Pegasus Leaders",
-   "ulke": "BAE",
-   "sektor": "luxury good"
-  },
-  {
-   "isim": "Ahmed Obaid AlMansoori",
-   "rol": "Founder",
-   "sirket": "Holocaust Memorial Gallery in Dubai",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Ahmed Obaid AlMansoori",
-   "rol": "Founder",
-   "sirket": "Crossroad of Civilizations Museum",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Wassim Slaiby",
-   "rol": "Founder",
-   "sirket": "Universal Music MENA",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Julian Sperring-Toy",
-   "rol": "Founder",
-   "sirket": "Ventariom Global",
-   "ulke": "BAE",
-   "sektor": "financial adviser"
-  },
-  {
-   "isim": "Mondoir",
-   "rol": "Founder",
-   "sirket": "Mondoir gallery",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Mohammed Bin Zayed Al Nahyan",
-   "rol": "Founder",
-   "sirket": "KALIMA",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Malini N. Menon",
-   "rol": "Founder",
-   "sirket": "ABLF alumni network",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Monir Islam",
-   "rol": "Founder",
-   "sirket": "BE",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Moyn Islam",
-   "rol": "Founder",
-   "sirket": "BE",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Lavanya Vikram",
-   "rol": "Founder",
-   "sirket": "Blush N Curls",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Monir Islam",
-   "rol": "Founder",
-   "sirket": "Melius",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Moyn Islam",
-   "rol": "Founder",
-   "sirket": "Melius",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Amir Soleymani",
-   "rol": "Founder",
-   "sirket": "Mondoir gallery",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Jordan Lee",
-   "rol": "Founder",
-   "sirket": "AI Acquisition",
-   "ulke": "BAE",
-   "sektor": "business-to-business"
-  },
-  {
-   "isim": "Aleksandr Suchkov",
-   "rol": "Founder",
-   "sirket": "Stergo Media",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Yaroslav Ivanov",
-   "rol": "Founder",
-   "sirket": "ALTA Blockchain Labs",
-   "ulke": "BAE",
-   "sektor": "cryptocurrency"
-  },
-  {
-   "isim": "Svenja Maltzahn",
-   "rol": "Founder",
-   "sirket": "Sumea Social",
-   "ulke": "BAE",
-   "sektor": "marketing"
-  },
-  {
-   "isim": "John Sachtouras",
-   "rol": "Founder",
-   "sirket": "Ascira",
-   "ulke": "BAE",
-   "sektor": ""
   },
   {
    "isim": "Ambreen Qureshi",
@@ -2830,11 +2620,32 @@
    "sektor": ""
   },
   {
-   "isim": "Divyank Turakhia",
+   "isim": "Anwesha Bose",
    "rol": "Founder",
-   "sirket": "Media.net",
+   "sirket": "BlueMint Services",
+   "ulke": "BAE",
+   "sektor": "public relations"
+  },
+  {
+   "isim": "Sultan bin Mohamed Al-Qasimi",
+   "rol": "Founder",
+   "sirket": "Sharjah English School",
    "ulke": "BAE",
    "sektor": ""
+  },
+  {
+   "isim": "Omar Gull",
+   "rol": "Founder",
+   "sirket": "Cledor",
+   "ulke": "BAE",
+   "sektor": "real estate development"
+  },
+  {
+   "isim": "Ibrahim Kedir",
+   "rol": "Founder",
+   "sirket": "Jedda Star",
+   "ulke": "BAE",
+   "sektor": "automotive industry"
   },
   {
    "isim": "Bob Diamond",
@@ -2844,11 +2655,32 @@
    "sektor": "bank"
   },
   {
+   "isim": "Elena Agaragimova",
+   "rol": "Founder",
+   "sirket": "Bessern",
+   "ulke": "BAE",
+   "sektor": "educational technology"
+  },
+  {
+   "isim": "Ivan Palomino",
+   "rol": "Founder",
+   "sirket": "Bessern",
+   "ulke": "BAE",
+   "sektor": "educational technology"
+  },
+  {
    "isim": "Humaid bin Rashid Al Nuaimi",
    "rol": "Founder",
    "sirket": "Ajman Museum",
    "ulke": "BAE",
    "sektor": ""
+  },
+  {
+   "isim": "Ciprian Ciceu",
+   "rol": "Founder",
+   "sirket": "Mainet X",
+   "ulke": "BAE",
+   "sektor": "financial services"
   },
   {
    "isim": "Mohammed bin Rashid Al Maktoum",
@@ -2865,9 +2697,44 @@
    "sektor": "automotive industry"
   },
   {
+   "isim": "Kalpesh Desai",
+   "rol": "Founder",
+   "sirket": "Agile Financial Technologies",
+   "ulke": "BAE",
+   "sektor": "insurtech"
+  },
+  {
    "isim": "Sunny Varkey",
    "rol": "Founder",
    "sirket": "GEMS Education",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Magnus Larsson",
+   "rol": "Founder",
+   "sirket": "Alcacor",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Mohamed Al Hashemi",
+   "rol": "Founder",
+   "sirket": "Union Cooperative Society",
+   "ulke": "BAE",
+   "sektor": "retail"
+  },
+  {
+   "isim": "Junaid Ahmad Khan",
+   "rol": "Founder",
+   "sirket": "EdgeERP Consulting",
+   "ulke": "BAE",
+   "sektor": "management consulting and management services; information technology services"
+  },
+  {
+   "isim": "Massari",
+   "rol": "Founder",
+   "sirket": "Universal Music MENA",
    "ulke": "BAE",
    "sektor": ""
   },
@@ -2879,11 +2746,32 @@
    "sektor": "real estate development"
   },
   {
+   "isim": "Wassim Slaiby",
+   "rol": "Founder",
+   "sirket": "Universal Music MENA",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Nadeem Akhtar",
+   "rol": "Founder",
+   "sirket": "Crickslab",
+   "ulke": "BAE",
+   "sektor": "sports technology"
+  },
+  {
    "isim": "Mohammed bin Rashid Al Maktoum",
    "rol": "Founder",
    "sirket": "Mohammed bin Rashid Al Maktoum Foundation",
    "ulke": "BAE",
    "sektor": ""
+  },
+  {
+   "isim": "Usman Arshaad",
+   "rol": "Founder",
+   "sirket": "Crickslab",
+   "ulke": "BAE",
+   "sektor": "sports technology"
   },
   {
    "isim": "M. A. Yusuff Ali",
@@ -2907,6 +2795,13 @@
    "sektor": ""
   },
   {
+   "isim": "Galina Chervyakova Calmon De Siqueira",
+   "rol": "Founder",
+   "sirket": "Neurovexis – Digital E-Commerce Platform",
+   "ulke": "BAE",
+   "sektor": "e-commerce"
+  },
+  {
    "isim": "Etienne Tricaud",
    "rol": "Founder",
    "sirket": "AREP",
@@ -2928,9 +2823,51 @@
    "sektor": ""
   },
   {
+   "isim": "Anup Narayanan",
+   "rol": "Founder",
+   "sirket": "Security Quotient",
+   "ulke": "BAE",
+   "sektor": "privacy"
+  },
+  {
+   "isim": "Anand Meena",
+   "rol": "Founder",
+   "sirket": "BlueMint Services",
+   "ulke": "BAE",
+   "sektor": "marketing"
+  },
+  {
    "isim": "Mohammed bin Rashid Al Maktoum",
    "rol": "Founder",
    "sirket": "Al Jalila Foundation",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Mohammed Bin Zayed Al Nahyan",
+   "rol": "Founder",
+   "sirket": "KALIMA",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Malini N. Menon",
+   "rol": "Founder",
+   "sirket": "ABLF alumni network",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Monir Islam",
+   "rol": "Founder",
+   "sirket": "BE",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Moyn Islam",
+   "rol": "Founder",
+   "sirket": "BE",
    "ulke": "BAE",
    "sektor": ""
   },
@@ -2956,6 +2893,20 @@
    "sektor": ""
   },
   {
+   "isim": "Monir Islam",
+   "rol": "Founder",
+   "sirket": "Melius",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Moyn Islam",
+   "rol": "Founder",
+   "sirket": "Melius",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
    "isim": "John Sexton",
    "rol": "Founder",
    "sirket": "New York University Abu Dhabi",
@@ -2977,6 +2928,20 @@
    "sektor": "health"
   },
   {
+   "isim": "Taifun Kemerci",
+   "rol": "Founder",
+   "sirket": "Tycoons Creators",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Aleksandr Suchkov",
+   "rol": "Founder",
+   "sirket": "Stergo Media",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
    "isim": "Sultan Sooud Al-Qassemi",
    "rol": "Founder",
    "sirket": "Barjeel Art Foundation",
@@ -2996,6 +2961,13 @@
    "sirket": "Sharjah Equestrian and Racing Club",
    "ulke": "BAE",
    "sektor": ""
+  },
+  {
+   "isim": "Sally Wally",
+   "rol": "Founder",
+   "sirket": "S Productions",
+   "ulke": "BAE",
+   "sektor": "television production"
   },
   {
    "isim": "Ahmed bin Saeed Al Maktoum",
@@ -3040,11 +3012,46 @@
    "sektor": ""
   },
   {
+   "isim": "John Sachtouras",
+   "rol": "Founder",
+   "sirket": "Ascira",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Amir Syeed",
+   "rol": "Founder",
+   "sirket": "Animated Times",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Alik Tarraf",
+   "rol": "Founder",
+   "sirket": "TARRAF PRODUCTIONS",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Marina Tarraf",
+   "rol": "Founder",
+   "sirket": "TARRAF PRODUCTIONS",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
    "isim": "Mansour bin Zayed Al Nahyan",
    "rol": "Founder",
    "sirket": "Abu Dhabi United Group",
    "ulke": "BAE",
    "sektor": "sport"
+  },
+  {
+   "isim": "Khabib Nurmagomedov",
+   "rol": "Founder",
+   "sirket": "Send Location",
+   "ulke": "BAE",
+   "sektor": ""
   },
   {
    "isim": "Sultan bin Mohamed Al-Qasimi",
@@ -3057,13 +3064,6 @@
    "isim": "Sultan bin Mohamed Al-Qasimi",
    "rol": "Founder",
    "sirket": "American University of Sharjah",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Sultan bin Mohamed Al-Qasimi",
-   "rol": "Founder",
-   "sirket": "Sharjah English School",
    "ulke": "BAE",
    "sektor": ""
   },
