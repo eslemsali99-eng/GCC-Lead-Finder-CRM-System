@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-30 04:08",
- "total": 994,
+ "updated": "2026-08-30 11:36",
+ "total": 997,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -12919,6 +12919,45 @@
    "sektor": "",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sulaiman%20Abdul%20Aziz%20Al%20Rajhi",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Amine Damoun",
+   "rol": "CEO",
+   "sirket": "Dubai Prod",
+   "ulke": "BAE",
+   "sektor": "marketing",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Amine%20Damoun%20Dubai%20Prod",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Nejc Soklic",
+   "rol": "Founder",
+   "sirket": "Dubai Prod",
+   "ulke": "BAE",
+   "sektor": "marketing",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Nejc%20Soklic%20Dubai%20Prod",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Saliha Afridi",
+   "rol": "Entrepreneur",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Saliha%20Afridi",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
