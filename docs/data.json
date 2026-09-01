@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-01 08:29",
- "total": 997,
+ "updated": "2026-09-01 14:08",
+ "total": 998,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -12958,6 +12958,19 @@
    "sektor": "",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Saliha%20Afridi",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Haseeb Tariq",
+   "rol": "CEO",
+   "sirket": "Global Data 365",
+   "ulke": "BAE",
+   "sektor": "business intelligence",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Haseeb%20Tariq%20Global%20Data%20365",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
