@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-07 03:23",
- "total": 998,
+ "updated": "2026-09-07 11:54",
+ "total": 1000,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -12971,6 +12971,32 @@
    "sektor": "business intelligence",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Haseeb%20Tariq%20Global%20Data%20365",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Roxana Diaconu",
+   "rol": "Founder",
+   "sirket": "Roxana Aesthetics Clinic",
+   "ulke": "BAE",
+   "sektor": "dermatology",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Roxana%20Diaconu%20Roxana%20Aesthetics%20Clinic",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Khaled Attallah",
+   "rol": "Entrepreneur",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Khaled%20Attallah",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
