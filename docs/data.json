@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-08 03:31",
- "total": 1000,
+ "updated": "2026-09-08 10:53",
+ "total": 1001,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -12997,6 +12997,19 @@
    "sektor": "",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Khaled%20Attallah",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Prince Nasser bin Hamad of Bahrain",
+   "rol": "Chairman",
+   "sirket": "Bapco Energies",
+   "ulke": "Bahreyn",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Prince%20Nasser%20bin%20Hamad%20of%20Bahrain%20Bapco%20Energies",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
