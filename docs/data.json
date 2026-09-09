@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-09 03:34",
- "total": 1001,
+ "updated": "2026-09-09 11:02",
+ "total": 1002,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -13010,6 +13010,19 @@
    "sektor": "",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Prince%20Nasser%20bin%20Hamad%20of%20Bahrain%20Bapco%20Energies",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Paul Templeton",
+   "rol": "Founder",
+   "sirket": "Templeton Global Search",
+   "ulke": "BAE",
+   "sektor": "mining",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Paul%20Templeton%20Templeton%20Global%20Search",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
