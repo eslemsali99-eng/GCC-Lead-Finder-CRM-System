@@ -1,5 +1,5 @@
 {
- "ts": 1788951197.656464,
+ "ts": 1789037295.384842,
  "people": [
   {
    "isim": "Abdulrahman Abumalih",
@@ -2270,6 +2270,13 @@
    "sektor": ""
   },
   {
+   "isim": "Alessandro D'Ubaldo",
+   "rol": "Founder",
+   "sirket": "800 PIZZA",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
    "isim": "Tim Jacobs",
    "rol": "Founder",
    "sirket": "KTS Global",
@@ -2296,6 +2303,13 @@
    "sirket": "Pythia Technologies",
    "ulke": "BAE",
    "sektor": "fintech"
+  },
+  {
+   "isim": "Divyank Turakhia",
+   "rol": "Founder",
+   "sirket": "Media.net",
+   "ulke": "BAE",
+   "sektor": ""
   },
   {
    "isim": "Sophie Solmini",
@@ -2333,9 +2347,23 @@
    "sektor": "business consulting"
   },
   {
+   "isim": "Jonas Eric Werner",
+   "rol": "Founder",
+   "sirket": "Crowd1",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
    "isim": "Magnus Larsson",
    "rol": "Founder",
    "sirket": "Alcacor",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Naser Taher",
+   "rol": "Founder",
+   "sirket": "MultiBank Group",
    "ulke": "BAE",
    "sektor": ""
   },
@@ -2408,13 +2436,6 @@
    "sirket": "Mondoir gallery",
    "ulke": "BAE",
    "sektor": ""
-  },
-  {
-   "isim": "Sunil John",
-   "rol": "Founder",
-   "sirket": "asda'a bcw",
-   "ulke": "BAE",
-   "sektor": "public relations"
   },
   {
    "isim": "Florian Bucher",
@@ -2536,6 +2557,13 @@
    "sektor": "marketing"
   },
   {
+   "isim": "Shahida Salam",
+   "rol": "Founder",
+   "sirket": "Pristine Private School",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
    "isim": "Sally Wally",
    "rol": "Founder",
    "sirket": "S Productions",
@@ -2546,27 +2574,6 @@
    "isim": "Nicolas Sadirac",
    "rol": "Founder",
    "sirket": "42",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Suhail al-Abdool",
-   "rol": "Founder",
-   "sirket": "Al Abdool",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Horst Jicha",
-   "rol": "Founder",
-   "sirket": "USI Tech",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Joao Severino",
-   "rol": "Founder",
-   "sirket": "USI Tech",
    "ulke": "BAE",
    "sektor": ""
   },
@@ -2627,20 +2634,6 @@
    "sektor": ""
   },
   {
-   "isim": "Christoffer Wilhelmsen",
-   "rol": "Founder",
-   "sirket": "SPARQ",
-   "ulke": "BAE",
-   "sektor": "video game industry"
-  },
-  {
-   "isim": "Mansour bin Zayed Al Nahyan",
-   "rol": "Founder",
-   "sirket": "Abu Dhabi United Group",
-   "ulke": "BAE",
-   "sektor": "sport"
-  },
-  {
    "isim": "Khabib Nurmagomedov",
    "rol": "Founder",
    "sirket": "Send Location",
@@ -2690,25 +2683,11 @@
    "sektor": "real estate development"
   },
   {
-   "isim": "Alessandro D'Ubaldo",
-   "rol": "Founder",
-   "sirket": "800 PIZZA",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
    "isim": "Ibrahim Kedir",
    "rol": "Founder",
    "sirket": "Jedda Star",
    "ulke": "BAE",
    "sektor": "automotive industry"
-  },
-  {
-   "isim": "Divyank Turakhia",
-   "rol": "Founder",
-   "sirket": "Media.net",
-   "ulke": "BAE",
-   "sektor": ""
   },
   {
    "isim": "Bob Diamond",
@@ -2739,13 +2718,6 @@
    "sektor": "automotive industry"
   },
   {
-   "isim": "Jonas Eric Werner",
-   "rol": "Founder",
-   "sirket": "Crowd1",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
    "isim": "Kalpesh Desai",
    "rol": "Founder",
    "sirket": "Agile Financial Technologies",
@@ -2756,13 +2728,6 @@
    "isim": "Sunny Varkey",
    "rol": "Founder",
    "sirket": "GEMS Education",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Naser Taher",
-   "rol": "Founder",
-   "sirket": "MultiBank Group",
    "ulke": "BAE",
    "sektor": ""
   },
@@ -2786,13 +2751,6 @@
    "sirket": "Emaar Properties",
    "ulke": "BAE",
    "sektor": "real estate development"
-  },
-  {
-   "isim": "Roxana Diaconu",
-   "rol": "Founder",
-   "sirket": "Roxana Aesthetics Clinic",
-   "ulke": "BAE",
-   "sektor": "dermatology"
   },
   {
    "isim": "Nadeem Akhtar",
@@ -2821,6 +2779,13 @@
    "sirket": "LuLu Group International",
    "ulke": "BAE",
    "sektor": "retail"
+  },
+  {
+   "isim": "Sunil John",
+   "rol": "Founder",
+   "sirket": "asda'a bcw",
+   "ulke": "BAE",
+   "sektor": "public relations"
   },
   {
    "isim": "Mohammed bin Rashid Al Maktoum",
@@ -2858,18 +2823,18 @@
    "sektor": ""
   },
   {
-   "isim": "Mohammed bin Rashid Al Maktoum",
-   "rol": "Founder",
-   "sirket": "Zayed International Prize for the Environment",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
    "isim": "Anup Narayanan",
    "rol": "Founder",
    "sirket": "Security Quotient",
    "ulke": "BAE",
    "sektor": "privacy"
+  },
+  {
+   "isim": "Mohammed bin Rashid Al Maktoum",
+   "rol": "Founder",
+   "sirket": "Zayed International Prize for the Environment",
+   "ulke": "BAE",
+   "sektor": ""
   },
   {
    "isim": "Anand Meena",
@@ -2977,13 +2942,6 @@
    "sektor": "management consultancy activities"
   },
   {
-   "isim": "Shahida Salam",
-   "rol": "Founder",
-   "sirket": "Pristine Private School",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
    "isim": "Patu Keswani",
    "rol": "Founder",
    "sirket": "Lemon Tree Hotels",
@@ -3068,6 +3026,27 @@
    "sektor": ""
   },
   {
+   "isim": "Suhail al-Abdool",
+   "rol": "Founder",
+   "sirket": "Al Abdool",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Horst Jicha",
+   "rol": "Founder",
+   "sirket": "USI Tech",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Joao Severino",
+   "rol": "Founder",
+   "sirket": "USI Tech",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
    "isim": "Sultan bin Mohamed Al-Qasimi",
    "rol": "Founder",
    "sirket": "Sharjah Art Foundation",
@@ -3101,6 +3080,20 @@
    "sirket": "Wusool Capital",
    "ulke": "BAE",
    "sektor": "mergers and acquisitions"
+  },
+  {
+   "isim": "Christoffer Wilhelmsen",
+   "rol": "Founder",
+   "sirket": "SPARQ",
+   "ulke": "BAE",
+   "sektor": "video game industry"
+  },
+  {
+   "isim": "Mansour bin Zayed Al Nahyan",
+   "rol": "Founder",
+   "sirket": "Abu Dhabi United Group",
+   "ulke": "BAE",
+   "sektor": "sport"
   },
   {
    "isim": "Iyad Malas",
