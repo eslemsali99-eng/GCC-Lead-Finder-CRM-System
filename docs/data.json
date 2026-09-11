@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-11 03:30",
- "total": 1002,
+ "updated": "2026-09-11 10:53",
+ "total": 1003,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -13023,6 +13023,19 @@
    "sektor": "mining",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Paul%20Templeton%20Templeton%20Global%20Search",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Arthur Dell",
+   "rol": "Founder",
+   "sirket": "DELLIGHT.AI",
+   "ulke": "BAE",
+   "sektor": "artificial intelligence",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Arthur%20Dell%20DELLIGHT.AI",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
