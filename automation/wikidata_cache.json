@@ -1,5 +1,5 @@
 {
- "ts": 1789208033.573022,
+ "ts": 1789298037.567817,
  "people": [
   {
    "isim": "Abdulrahman Abumalih",
@@ -422,18 +422,18 @@
    "sektor": "film production"
   },
   {
-   "isim": "Wahaj Siddiqui",
-   "rol": "Founder",
-   "sirket": "Oblique Consult",
-   "ulke": "Suudi Arabistan",
-   "sektor": "tax"
-  },
-  {
    "isim": "Muqtada al-Sadr",
    "rol": "Founder",
    "sirket": "Alsadr Host",
    "ulke": "Suudi Arabistan",
    "sektor": ""
+  },
+  {
+   "isim": "Wahaj Siddiqui",
+   "rol": "Founder",
+   "sirket": "Oblique Consult",
+   "ulke": "Suudi Arabistan",
+   "sektor": "tax"
   },
   {
    "isim": "Mohammed bin Salman Al Saud",
@@ -558,6 +558,13 @@
    "isim": "Abdulrahman al-Hamid",
    "rol": "Founder",
    "sirket": "Saudi Civil and Political Rights Association",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Sharafaldeen Bin Nafisah",
+   "rol": "Founder",
+   "sirket": "Disaster Management Experts Club",
    "ulke": "Suudi Arabistan",
    "sektor": ""
   },
@@ -1297,13 +1304,6 @@
    "sektor": ""
   },
   {
-   "isim": "Fahad Al-Saif",
-   "rol": "Banker",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
    "isim": "Ameen Al Mallah",
    "rol": "Businessperson",
    "sirket": "",
@@ -1416,14 +1416,21 @@
    "sektor": ""
   },
   {
-   "isim": "Lama Al-Sulaiman",
+   "isim": "Enji Al-Ghazzawi",
+   "rol": "Banker",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Huda Al-Jeraisy",
    "rol": "Businessperson",
    "sirket": "",
    "ulke": "Suudi Arabistan",
    "sektor": ""
   },
   {
-   "isim": "Lina K. Almaeena",
+   "isim": "Nashwa Taher",
    "rol": "Businessperson",
    "sirket": "",
    "ulke": "Suudi Arabistan",
@@ -1724,6 +1731,13 @@
    "sektor": ""
   },
   {
+   "isim": "Fahad Al-Saif",
+   "rol": "Banker",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
    "isim": "Mustapha Aziz",
    "rol": "Businessperson",
    "sirket": "",
@@ -1759,8 +1773,15 @@
    "sektor": ""
   },
   {
-   "isim": "Enji Al-Ghazzawi",
-   "rol": "Banker",
+   "isim": "Lama Al-Sulaiman",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Lina K. Almaeena",
+   "rol": "Businessperson",
    "sirket": "",
    "ulke": "Suudi Arabistan",
    "sektor": ""
@@ -1774,20 +1795,6 @@
   },
   {
    "isim": "Fareeda Al-Farisi",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Huda Al-Jeraisy",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Nashwa Taher",
    "rol": "Businessperson",
    "sirket": "",
    "ulke": "Suudi Arabistan",

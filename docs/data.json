@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-13 03:41",
- "total": 1004,
+ "updated": "2026-09-13 11:22",
+ "total": 1005,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -13049,6 +13049,19 @@
    "sektor": "",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Redha%20Alayesh",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Sharafaldeen Bin Nafisah",
+   "rol": "Founder",
+   "sirket": "Disaster Management Experts Club",
+   "ulke": "Suudi Arabistan",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sharafaldeen%20Bin%20Nafisah%20Disaster%20Management%20Experts%20Club",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
