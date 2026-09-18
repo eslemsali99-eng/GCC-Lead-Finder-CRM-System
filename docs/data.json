@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-18 03:40",
- "total": 1006,
+ "updated": "2026-09-18 10:52",
+ "total": 1008,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -13075,6 +13075,32 @@
    "sektor": "",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Saeed%20Al%20Hasan",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Abdullah Binsabaan",
+   "rol": "Chairman",
+   "sirket": "Ruwad Mowafak",
+   "ulke": "Suudi Arabistan",
+   "sektor": "wood industry",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Abdullah%20Binsabaan%20Ruwad%20Mowafak",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Andreas Vezonik",
+   "rol": "Founder",
+   "sirket": "Brendit",
+   "ulke": "BAE",
+   "sektor": "online reputation management",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Andreas%20Vezonik%20Brendit",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
