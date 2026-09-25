@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-25 03:55",
- "total": 1011,
+ "updated": "2026-09-25 11:32",
+ "total": 1012,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -13140,6 +13140,19 @@
    "sektor": "",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Prince%20Majid%20bin%20Mohammed%20of%20Dubai",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Denis Salatin",
+   "rol": "Founder",
+   "sirket": "Tolmete",
+   "ulke": "BAE",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Denis%20Salatin%20Tolmete",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
