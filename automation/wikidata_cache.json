@@ -1,5 +1,5 @@
 {
- "ts": 1790420198.062121,
+ "ts": 1790508796.271235,
  "people": [
   {
    "isim": "Abdulrahman Abumalih",
@@ -2333,6 +2333,13 @@
    "sektor": "retail"
   },
   {
+   "isim": "Sunil John",
+   "rol": "Founder",
+   "sirket": "asda'a bcw",
+   "ulke": "BAE",
+   "sektor": "public relations"
+  },
+  {
    "isim": "Mohammed bin Rashid Al Maktoum",
    "rol": "Founder",
    "sirket": "International Humanitarian City",
@@ -2452,6 +2459,27 @@
    "sektor": ""
   },
   {
+   "isim": "Suhail al-Abdool",
+   "rol": "Founder",
+   "sirket": "Al Abdool",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Horst Jicha",
+   "rol": "Founder",
+   "sirket": "USI Tech",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Joao Severino",
+   "rol": "Founder",
+   "sirket": "USI Tech",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
    "isim": "Sultan bin Mohamed Al-Qasimi",
    "rol": "Founder",
    "sirket": "Sharjah Art Foundation",
@@ -2485,13 +2513,6 @@
    "sirket": "Sharjah English School",
    "ulke": "BAE",
    "sektor": ""
-  },
-  {
-   "isim": "Hugo Cugnet",
-   "rol": "Founder",
-   "sirket": "Wusool Capital",
-   "ulke": "BAE",
-   "sektor": "mergers and acquisitions"
   },
   {
    "isim": "Sarah Koben",
@@ -2564,6 +2585,13 @@
    "sektor": "educational technology"
   },
   {
+   "isim": "Ciprian Ciceu",
+   "rol": "Founder",
+   "sirket": "Mainet X",
+   "ulke": "BAE",
+   "sektor": "financial services"
+  },
+  {
    "isim": "Henri Al Helaly",
    "rol": "Founder",
    "sirket": "EXILLIUM",
@@ -2578,6 +2606,13 @@
    "sektor": ""
   },
   {
+   "isim": "Magnus Larsson",
+   "rol": "Founder",
+   "sirket": "Alcacor",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
    "isim": "Naser Taher",
    "rol": "Founder",
    "sirket": "MultiBank Group",
@@ -2585,18 +2620,11 @@
    "sektor": ""
   },
   {
-   "isim": "Ahmad Mahmood",
+   "isim": "Mohamed Al Hashemi",
    "rol": "Founder",
-   "sirket": "Plug Media",
+   "sirket": "Union Cooperative Society",
    "ulke": "BAE",
-   "sektor": "influencer marketing"
-  },
-  {
-   "isim": "Junaid Ahmad Khan",
-   "rol": "Founder",
-   "sirket": "EdgeERP Consulting",
-   "ulke": "BAE",
-   "sektor": "management consulting and management services; information technology services"
+   "sektor": "retail"
   },
   {
    "isim": "Massari",
@@ -2655,13 +2683,6 @@
    "sektor": ""
   },
   {
-   "isim": "Sunil John",
-   "rol": "Founder",
-   "sirket": "asda'a bcw",
-   "ulke": "BAE",
-   "sektor": "public relations"
-  },
-  {
    "isim": "Florian Bucher",
    "rol": "Founder",
    "sirket": "42",
@@ -2679,6 +2700,27 @@
    "isim": "Mohammed Bin Zayed Al Nahyan",
    "rol": "Founder",
    "sirket": "KALIMA",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Malini N. Menon",
+   "rol": "Founder",
+   "sirket": "ABLF alumni network",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Monir Islam",
+   "rol": "Founder",
+   "sirket": "BE",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Moyn Islam",
+   "rol": "Founder",
+   "sirket": "BE",
    "ulke": "BAE",
    "sektor": ""
   },
@@ -2704,9 +2746,16 @@
    "sektor": "management consultancy activities"
   },
   {
-   "isim": "Taifun Kemerci",
+   "isim": "Monir Islam",
    "rol": "Founder",
-   "sirket": "Tycoons Creators",
+   "sirket": "Melius",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Moyn Islam",
+   "rol": "Founder",
+   "sirket": "Melius",
    "ulke": "BAE",
    "sektor": ""
   },
@@ -2737,6 +2786,13 @@
    "sirket": "AI Acquisition",
    "ulke": "BAE",
    "sektor": "business-to-business"
+  },
+  {
+   "isim": "Aleksandr Suchkov",
+   "rol": "Founder",
+   "sirket": "Stergo Media",
+   "ulke": "BAE",
+   "sektor": ""
   },
   {
    "isim": "Yaroslav Ivanov",
@@ -2802,51 +2858,9 @@
    "sektor": ""
   },
   {
-   "isim": "Tarek Bayazid",
+   "isim": "John Sachtouras",
    "rol": "Founder",
-   "sirket": "The Curve Edit",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Majd Naji",
-   "rol": "Founder",
-   "sirket": "Liberty Dental Clinic",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Zahra Ali",
-   "rol": "Founder",
-   "sirket": "Zahra Ali Photography",
-   "ulke": "BAE",
-   "sektor": "photography"
-  },
-  {
-   "isim": "Suhail al-Abdool",
-   "rol": "Founder",
-   "sirket": "Al Abdool",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Horst Jicha",
-   "rol": "Founder",
-   "sirket": "USI Tech",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Joao Severino",
-   "rol": "Founder",
-   "sirket": "USI Tech",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Amir Syeed",
-   "rol": "Founder",
-   "sirket": "Animated Times",
+   "sirket": "Ascira",
    "ulke": "BAE",
    "sektor": ""
   },
@@ -2914,6 +2928,13 @@
    "sektor": ""
   },
   {
+   "isim": "Hugo Cugnet",
+   "rol": "Founder",
+   "sirket": "Wusool Capital",
+   "ulke": "BAE",
+   "sektor": "mergers and acquisitions"
+  },
+  {
    "isim": "Omar Gull",
    "rol": "Founder",
    "sirket": "Cledor",
@@ -2928,13 +2949,6 @@
    "sektor": "automotive industry"
   },
   {
-   "isim": "Ciprian Ciceu",
-   "rol": "Founder",
-   "sirket": "Mainet X",
-   "ulke": "BAE",
-   "sektor": "financial services"
-  },
-  {
    "isim": "Kalpesh Desai",
    "rol": "Founder",
    "sirket": "Agile Financial Technologies",
@@ -2942,18 +2956,18 @@
    "sektor": "insurtech"
   },
   {
-   "isim": "Magnus Larsson",
+   "isim": "Ahmad Mahmood",
    "rol": "Founder",
-   "sirket": "Alcacor",
+   "sirket": "Plug Media",
    "ulke": "BAE",
-   "sektor": ""
+   "sektor": "influencer marketing"
   },
   {
-   "isim": "Mohamed Al Hashemi",
+   "isim": "Junaid Ahmad Khan",
    "rol": "Founder",
-   "sirket": "Union Cooperative Society",
+   "sirket": "EdgeERP Consulting",
    "ulke": "BAE",
-   "sektor": "retail"
+   "sektor": "management consulting and management services; information technology services"
   },
   {
    "isim": "Nadeem Akhtar",
@@ -3012,46 +3026,11 @@
    "sektor": "mining"
   },
   {
-   "isim": "Malini N. Menon",
-   "rol": "Founder",
-   "sirket": "ABLF alumni network",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
    "isim": "Nejc Soklic",
    "rol": "Founder",
    "sirket": "Dubai Prod",
    "ulke": "BAE",
    "sektor": "marketing"
-  },
-  {
-   "isim": "Monir Islam",
-   "rol": "Founder",
-   "sirket": "BE",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Moyn Islam",
-   "rol": "Founder",
-   "sirket": "BE",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Monir Islam",
-   "rol": "Founder",
-   "sirket": "Melius",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Moyn Islam",
-   "rol": "Founder",
-   "sirket": "Melius",
-   "ulke": "BAE",
-   "sektor": ""
   },
   {
    "isim": "Juma Al Majid",
@@ -3061,9 +3040,9 @@
    "sektor": "higher education"
   },
   {
-   "isim": "Aleksandr Suchkov",
+   "isim": "Taifun Kemerci",
    "rol": "Founder",
-   "sirket": "Stergo Media",
+   "sirket": "Tycoons Creators",
    "ulke": "BAE",
    "sektor": ""
   },
@@ -3075,6 +3054,27 @@
    "sektor": ""
   },
   {
+   "isim": "Tarek Bayazid",
+   "rol": "Founder",
+   "sirket": "The Curve Edit",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Majd Naji",
+   "rol": "Founder",
+   "sirket": "Liberty Dental Clinic",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Zahra Ali",
+   "rol": "Founder",
+   "sirket": "Zahra Ali Photography",
+   "ulke": "BAE",
+   "sektor": "photography"
+  },
+  {
    "isim": "Denis Salatin",
    "rol": "Founder",
    "sirket": "Tolmete",
@@ -3082,9 +3082,9 @@
    "sektor": ""
   },
   {
-   "isim": "John Sachtouras",
+   "isim": "Amir Syeed",
    "rol": "Founder",
-   "sirket": "Ascira",
+   "sirket": "Animated Times",
    "ulke": "BAE",
    "sektor": ""
   },
