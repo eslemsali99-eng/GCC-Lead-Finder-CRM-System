@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-28 04:11",
- "total": 1012,
+ "updated": "2026-09-28 13:15",
+ "total": 1013,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -13153,6 +13153,19 @@
    "sektor": "",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Denis%20Salatin%20Tolmete",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Enny Abiola Idris",
+   "rol": "Founder",
+   "sirket": "Cowry Software WLL",
+   "ulke": "Katar",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Enny%20Abiola%20Idris%20Cowry%20Software%20WLL",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
