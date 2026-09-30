@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-30 00:13",
- "total": 1013,
+ "updated": "2026-09-30 09:33",
+ "total": 1015,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -13166,6 +13166,32 @@
    "sektor": "",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Enny%20Abiola%20Idris%20Cowry%20Software%20WLL",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Fahed Bizzari",
+   "rol": "Founder",
+   "sirket": "Bellamy Alden",
+   "ulke": "BAE",
+   "sektor": "business and other management consultancy activities",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Fahed%20Bizzari%20Bellamy%20Alden",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Khalil Alsalim",
+   "rol": "Founder",
+   "sirket": "Ravinaro",
+   "ulke": "BAE",
+   "sektor": "artificial intelligence",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Khalil%20Alsalim%20Ravinaro",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
