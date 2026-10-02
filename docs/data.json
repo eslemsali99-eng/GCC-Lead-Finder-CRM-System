@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-02 00:42",
- "total": 1015,
+ "updated": "2026-10-02 09:36",
+ "total": 1016,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -13192,6 +13192,19 @@
    "sektor": "artificial intelligence",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Khalil%20Alsalim%20Ravinaro",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Muneer Alwafaa",
+   "rol": "CEO",
+   "sirket": "Al Wafaa Group",
+   "ulke": "BAE",
+   "sektor": "artificial intelligence",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Muneer%20Alwafaa%20Al%20Wafaa%20Group",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
