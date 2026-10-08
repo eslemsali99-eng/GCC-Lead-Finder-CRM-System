@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-08 00:52",
- "total": 1018,
+ "updated": "2026-10-08 10:18",
+ "total": 1020,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -13231,6 +13231,32 @@
    "sektor": "",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Dickie%20Shearer",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Bady Ammar",
+   "rol": "Founder",
+   "sirket": "Extend Academy",
+   "ulke": "Suudi Arabistan",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Bady%20Ammar%20Extend%20Academy",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Khalid AlHarthi",
+   "rol": "Founder",
+   "sirket": "Extend Academy",
+   "ulke": "Suudi Arabistan",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Khalid%20AlHarthi%20Extend%20Academy",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
