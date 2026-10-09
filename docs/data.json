@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-09 01:09",
- "total": 1020,
+ "updated": "2026-10-09 10:19",
+ "total": 1023,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -13257,6 +13257,45 @@
    "sektor": "",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Khalid%20AlHarthi%20Extend%20Academy",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Abdulaziz Homaid Alhomaid",
+   "rol": "Founder",
+   "sirket": "EventSheets",
+   "ulke": "Suudi Arabistan",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Abdulaziz%20Homaid%20Alhomaid%20EventSheets",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Safaa Khadi",
+   "rol": "Entrepreneur",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Safaa%20Khadi",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Abdulaziz Homaid Alhomaid",
+   "rol": "Founder",
+   "sirket": "Voice of Arabic",
+   "ulke": "Suudi Arabistan",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Abdulaziz%20Homaid%20Alhomaid%20Voice%20of%20Arabic",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
