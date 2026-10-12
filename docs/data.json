@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-12 00:21",
- "total": 1023,
+ "updated": "2026-10-12 10:30",
+ "total": 1025,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -13296,6 +13296,32 @@
    "sektor": "",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Abdulaziz%20Homaid%20Alhomaid%20Voice%20of%20Arabic",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Antonio De Rosa",
+   "rol": "Founder",
+   "sirket": "ADR Studio",
+   "ulke": "BAE",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Antonio%20De%20Rosa%20ADR%20Studio",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Khaldoon Al Mubarak",
+   "rol": "Entrepreneur",
+   "sirket": "Mubadala Investment Company",
+   "ulke": "BAE",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Khaldoon%20Al%20Mubarak%20Mubadala%20Investment%20Company",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
