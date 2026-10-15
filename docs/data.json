@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-15 03:39",
- "total": 1025,
+ "updated": "2026-10-15 11:02",
+ "total": 1027,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -13322,6 +13322,32 @@
    "sektor": "",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Khaldoon%20Al%20Mubarak%20Mubadala%20Investment%20Company",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Zain-Alabdin Tawfiq",
+   "rol": "Founder",
+   "sirket": "Roomaty",
+   "ulke": "Suudi Arabistan",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Zain-Alabdin%20Tawfiq%20Roomaty",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Zain-Alabdin Tawfiq",
+   "rol": "Founder",
+   "sirket": "Sarahah",
+   "ulke": "Suudi Arabistan",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Zain-Alabdin%20Tawfiq%20Sarahah",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
