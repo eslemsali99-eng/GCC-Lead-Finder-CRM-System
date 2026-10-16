@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-16 03:35",
- "total": 1027,
+ "updated": "2026-10-16 10:58",
+ "total": 1028,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -13348,6 +13348,19 @@
    "sektor": "",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Zain-Alabdin%20Tawfiq%20Sarahah",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Joseph Bihag",
+   "rol": "Founder",
+   "sirket": "Almost Impossible",
+   "ulke": "BAE",
+   "sektor": "advertising",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Joseph%20Bihag%20Almost%20Impossible",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
