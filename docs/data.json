@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-17 03:25",
- "total": 1028,
+ "updated": "2026-10-17 10:25",
+ "total": 1030,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -13361,6 +13361,32 @@
    "sektor": "advertising",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Joseph%20Bihag%20Almost%20Impossible",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Julian Stafford",
+   "rol": "CEO",
+   "sirket": "Surgence Labs",
+   "ulke": "BAE",
+   "sektor": "marketing",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Julian%20Stafford%20Surgence%20Labs",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Umer Shauket",
+   "rol": "CEO",
+   "sirket": "Cresco Real Estate LLC",
+   "ulke": "BAE",
+   "sektor": "real estate industry",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Umer%20Shauket%20Cresco%20Real%20Estate%20LLC",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
