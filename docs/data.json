@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-19 03:41",
- "total": 1035,
+ "updated": "2026-10-19 12:30",
+ "total": 1036,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -13452,6 +13452,19 @@
    "sektor": "",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Justin%20Cooke",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Daniil Shuleyko",
+   "rol": "CEO",
+   "sirket": "Yango Group",
+   "ulke": "BAE",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Daniil%20Shuleyko%20Yango%20Group",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
