@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-22 03:43",
- "total": 1037,
+ "updated": "2026-10-22 11:26",
+ "total": 1040,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -13478,6 +13478,45 @@
    "sektor": "eyewear",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=J%C3%A9r%C3%B4me%20Aupin%20JAUPIN",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Abdulrahman Zubailah",
+   "rol": "Entrepreneur",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Abdulrahman%20Zubailah",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Sultan bin Ahmed Al Qasimi",
+   "rol": "Chairman",
+   "sirket": "Sharjah Petroleum Department",
+   "ulke": "BAE",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sultan%20bin%20Ahmed%20Al%20Qasimi%20Sharjah%20Petroleum%20Department",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Hind Bahwan",
+   "rol": "Businessperson",
+   "sirket": "Bahwan CyberTek",
+   "ulke": "Umman",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Hind%20Bahwan%20Bahwan%20CyberTek",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
