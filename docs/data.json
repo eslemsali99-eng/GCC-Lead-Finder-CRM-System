@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-24 03:42",
- "total": 1040,
+ "updated": "2026-10-24 10:34",
+ "total": 1043,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -13517,6 +13517,45 @@
    "sektor": "",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Hind%20Bahwan%20Bahwan%20CyberTek",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Muḥammad ʻAlī dawlah",
+   "rol": "Founder",
+   "sirket": "Dār Al-Bashīr'",
+   "ulke": "Suudi Arabistan",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Mu%E1%B8%A5ammad%20%CA%BBAl%C4%AB%20dawlah%20D%C4%81r%20Al-Bash%C4%ABr%27",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Youssef Akef",
+   "rol": "Founder",
+   "sirket": "The Way Studio",
+   "ulke": "BAE",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Youssef%20Akef%20The%20Way%20Studio",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Faisal Aldeleigan",
+   "rol": "Banker",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Faisal%20Aldeleigan",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
