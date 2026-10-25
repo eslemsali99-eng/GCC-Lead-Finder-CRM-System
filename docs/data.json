@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-25 03:39",
- "total": 1043,
+ "updated": "2026-10-25 11:01",
+ "total": 1047,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -13556,6 +13556,58 @@
    "sektor": "",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Faisal%20Aldeleigan",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Amer Atiyah",
+   "rol": "CEO",
+   "sirket": "Solvait",
+   "ulke": "Suudi Arabistan",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Amer%20Atiyah%20Solvait",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Abdulrahman AlNuaimi",
+   "rol": "CEO",
+   "sirket": "Abdulrahman AlNuaimi Auditing of Accounts LLC",
+   "ulke": "BAE",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Abdulrahman%20AlNuaimi%20Abdulrahman%20AlNuaimi%20Auditing%20of%20Accounts%20LLC",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Remoca Yiran Shi",
+   "rol": "Founder",
+   "sirket": "WeCarbon",
+   "ulke": "BAE",
+   "sektor": "artificial intelligence",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Remoca%20Yiran%20Shi%20WeCarbon",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Eric Yingchao Ma",
+   "rol": "Founder",
+   "sirket": "WeCarbon",
+   "ulke": "BAE",
+   "sektor": "artificial intelligence",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Eric%20Yingchao%20Ma%20WeCarbon",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
