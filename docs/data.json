@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-31 04:34",
- "total": 1054,
+ "updated": "2026-10-31 11:52",
+ "total": 1056,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -13699,6 +13699,32 @@
    "sektor": "",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Justin%20Davis",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Steven Cartigny",
+   "rol": "CEO",
+   "sirket": "TRIX20",
+   "ulke": "BAE",
+   "sektor": "sports marketing",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Steven%20Cartigny%20TRIX20",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Adnan Z. Amin",
+   "rol": "Chairman",
+   "sirket": "International Renewable Energy Agency",
+   "ulke": "BAE",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Adnan%20Z.%20Amin%20International%20Renewable%20Energy%20Agency",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
