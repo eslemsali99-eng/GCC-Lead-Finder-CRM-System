@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-01 04:53",
- "total": 1056,
+ "updated": "2026-11-01 12:57",
+ "total": 1057,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -13725,6 +13725,19 @@
    "sektor": "",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Adnan%20Z.%20Amin%20International%20Renewable%20Energy%20Agency",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Anna Hazlett",
+   "rol": "Founder",
+   "sirket": "AzurX",
+   "ulke": "BAE",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Anna%20Hazlett%20AzurX",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
