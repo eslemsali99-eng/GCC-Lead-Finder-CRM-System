@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-02 00:27",
- "total": 1057,
+ "updated": "2026-11-02 10:49",
+ "total": 1059,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -13738,6 +13738,32 @@
    "sektor": "",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Anna%20Hazlett%20AzurX",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Paris Norriss",
+   "rol": "CEO",
+   "sirket": "Blazing Sand Studios",
+   "ulke": "BAE",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Paris%20Norriss%20Blazing%20Sand%20Studios",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Hasan Babat",
+   "rol": "Founder",
+   "sirket": "Tuscan Consulting",
+   "ulke": "BAE",
+   "sektor": "human resource management",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Hasan%20Babat%20Tuscan%20Consulting",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
