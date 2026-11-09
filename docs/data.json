@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-09 00:43",
- "total": 1066,
+ "updated": "2026-11-09 11:08",
+ "total": 1068,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -13855,6 +13855,32 @@
    "sektor": "",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Zohare%20Haider",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Turki Al Ghanem",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Turki%20Al%20Ghanem",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Osman Daggezen",
+   "rol": "Founder",
+   "sirket": "OD Pharma Consulting",
+   "ulke": "BAE",
+   "sektor": "business and other management consultancy activities",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Osman%20Daggezen%20OD%20Pharma%20Consulting",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
