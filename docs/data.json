@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16 21:50",
- "total": 1074,
+ "updated": "2026-11-17 07:03",
+ "total": 1077,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -13959,6 +13959,45 @@
    "sektor": "",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Hind%20Bahwan%20Hind%20Bahwan%20Group",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Aditya Shah",
+   "rol": "CEO",
+   "sirket": "Neotera Energy",
+   "ulke": "BAE",
+   "sektor": "renewable energy",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Aditya%20Shah%20Neotera%20Energy",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Hind Bahwan",
+   "rol": "Chairman",
+   "sirket": "Neotera Energy",
+   "ulke": "BAE",
+   "sektor": "efficient energy use",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Hind%20Bahwan%20Neotera%20Energy",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Mustafa Khamash",
+   "rol": "Founder",
+   "sirket": "Kart Group",
+   "ulke": "BAE",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Mustafa%20Khamash%20Kart%20Group",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
