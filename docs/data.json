@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-18 02:53",
- "total": 1077,
+ "updated": "2026-11-18 11:27",
+ "total": 1080,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -13998,6 +13998,45 @@
    "sektor": "",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Mustafa%20Khamash%20Kart%20Group",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Naif Hilwan",
+   "rol": "CEO",
+   "sirket": "BaridX",
+   "ulke": "Suudi Arabistan",
+   "sektor": "cold chain",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Naif%20Hilwan%20BaridX",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Hafiz Muhammad Usman",
+   "rol": "Founder",
+   "sirket": "GoDesign FZE",
+   "ulke": "BAE",
+   "sektor": "web development",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Hafiz%20Muhammad%20Usman%20GoDesign%20FZE",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Lana Al Kamal",
+   "rol": "Founder",
+   "sirket": "Lana Al Kamal Jewelry",
+   "ulke": "BAE",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Lana%20Al%20Kamal%20Lana%20Al%20Kamal%20Jewelry",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
