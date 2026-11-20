@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20 02:10",
- "total": 1084,
+ "updated": "2026-11-20 11:08",
+ "total": 1086,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -14089,6 +14089,32 @@
    "sektor": "",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ahmed%20Shahin%20Khalisdar",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Mariane Nunes",
+   "rol": "Founder",
+   "sirket": "Nahy Real Estate L.L.C.",
+   "ulke": "BAE",
+   "sektor": "Real Estate",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Mariane%20Nunes%20Nahy%20Real%20Estate%20L.L.C.",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Sajid Manzur",
+   "rol": "Founder",
+   "sirket": "Akwad",
+   "ulke": "BAE",
+   "sektor": "software engineering",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sajid%20Manzur%20Akwad",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
