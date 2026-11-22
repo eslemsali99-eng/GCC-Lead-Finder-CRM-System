@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22 01:07",
- "total": 1086,
+ "updated": "2026-11-22 10:57",
+ "total": 1087,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -14115,6 +14115,19 @@
    "sektor": "software engineering",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sajid%20Manzur%20Akwad",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Danish Farhan",
+   "rol": "Founder",
+   "sirket": "Xische & Co",
+   "ulke": "BAE",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Danish%20Farhan%20Xische%20%26%20Co",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
