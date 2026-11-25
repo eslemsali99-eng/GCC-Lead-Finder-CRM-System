@@ -1,5 +1,5 @@
 {
- "ts": 1795510313.934732,
+ "ts": 1795625648.476128,
  "people": [
   {
    "isim": "Abdulrahman Abumalih",
@@ -380,6 +380,433 @@
    "sektor": ""
   },
   {
+   "isim": "Abdulaziz Homaid Alhomaid",
+   "rol": "Founder",
+   "sirket": "EventSheets",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Abdulaziz Homaid Alhomaid",
+   "rol": "Founder",
+   "sirket": "Voice of Arabic",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Bady Ammar",
+   "rol": "Founder",
+   "sirket": "Extend Academy",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Khalid AlHarthi",
+   "rol": "Founder",
+   "sirket": "Extend Academy",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Zain-Alabdin Tawfiq",
+   "rol": "Founder",
+   "sirket": "Roomaty",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Salman bin Ahmed Al-Eid",
+   "rol": "Founder",
+   "sirket": "Asda' Al Khaleej",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Muteb Alqani",
+   "rol": "Founder",
+   "sirket": "HudHud Information Technology Company",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Ihab Hassan",
+   "rol": "Founder",
+   "sirket": "Mount Sinai Company",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Ihab Hassan",
+   "rol": "Founder",
+   "sirket": "Innovation Foundation Factory",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Fouad Alkhateeb",
+   "rol": "Founder",
+   "sirket": "Local Film Gate",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Mashhoor AlDubayan",
+   "rol": "Founder",
+   "sirket": "Saudi Gamer",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Abdullatif bin Ahmed Al Fozan",
+   "rol": "Founder",
+   "sirket": "Al Fozan Holding",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Neal Spackman",
+   "rol": "Founder",
+   "sirket": "Al Baydha Project",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Michael Lahyani",
+   "rol": "Founder",
+   "sirket": "Property Finder",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Fouad al-Farhan",
+   "rol": "Founder",
+   "sirket": "Rwaq",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Malik Nejer",
+   "rol": "Founder",
+   "sirket": "Myrkott",
+   "ulke": "Suudi Arabistan",
+   "sektor": "film industry"
+  },
+  {
+   "isim": "Faisal Al-Amer",
+   "rol": "Founder",
+   "sirket": "Myrkott",
+   "ulke": "Suudi Arabistan",
+   "sektor": "film industry"
+  },
+  {
+   "isim": "Mahmoud Sabbagh",
+   "rol": "Founder",
+   "sirket": "El-Housh Productions",
+   "ulke": "Suudi Arabistan",
+   "sektor": "film production"
+  },
+  {
+   "isim": "Muqtada al-Sadr",
+   "rol": "Founder",
+   "sirket": "Alsadr Host",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Wahaj Siddiqui",
+   "rol": "Founder",
+   "sirket": "Oblique Consult",
+   "ulke": "Suudi Arabistan",
+   "sektor": "tax"
+  },
+  {
+   "isim": "Mohammed bin Salman Al Saud",
+   "rol": "Founder",
+   "sirket": "The Line",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Ali Alkinani",
+   "rol": "Founder",
+   "sirket": "Bithrah Tech",
+   "ulke": "Suudi Arabistan",
+   "sektor": "software industry"
+  },
+  {
+   "isim": "Waleed bin Ibrahim Al Ibrahim",
+   "rol": "Founder",
+   "sirket": "MBC Group",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Mohammed Ameen Villan",
+   "rol": "Founder",
+   "sirket": "KSA Expats",
+   "ulke": "Suudi Arabistan",
+   "sektor": "media industry"
+  },
+  {
+   "isim": "Laila Bamashmous",
+   "rol": "Founder",
+   "sirket": "AQUA Dent Clinics",
+   "ulke": "Suudi Arabistan",
+   "sektor": "dentistry"
+  },
+  {
+   "isim": "Jamil Aref",
+   "rol": "Founder",
+   "sirket": "AQUA Dent Clinics",
+   "ulke": "Suudi Arabistan",
+   "sektor": "dentistry"
+  },
+  {
+   "isim": "Jehad Aref",
+   "rol": "Founder",
+   "sirket": "AQUA Dent Clinics",
+   "ulke": "Suudi Arabistan",
+   "sektor": "dentistry"
+  },
+  {
+   "isim": "Loren Holland",
+   "rol": "Founder",
+   "sirket": "GymNation",
+   "ulke": "Suudi Arabistan",
+   "sektor": "fitness industry"
+  },
+  {
+   "isim": "Frank Afeaki",
+   "rol": "Founder",
+   "sirket": "GymNation",
+   "ulke": "Suudi Arabistan",
+   "sektor": "fitness industry"
+  },
+  {
+   "isim": "Ant Martland",
+   "rol": "Founder",
+   "sirket": "GymNation",
+   "ulke": "Suudi Arabistan",
+   "sektor": "fitness industry"
+  },
+  {
+   "isim": "Mohammed bin Salman Al Saud",
+   "rol": "Founder",
+   "sirket": "Neom",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Faisal Alkhamissi",
+   "rol": "Founder",
+   "sirket": "HudHud Information Technology Company",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Mohammed bin Salman Al Saud",
+   "rol": "Founder",
+   "sirket": "National Gaming & Esports Strategy",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Khaled bin Fahd",
+   "rol": "Founder",
+   "sirket": "Funoon al Jazeera",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Fahhad Sulaiman  Al-Fahhad",
+   "rol": "Founder",
+   "sirket": "Salam Veterinary Group",
+   "ulke": "Suudi Arabistan",
+   "sektor": "Q20389493"
+  },
+  {
+   "isim": "Mohammed bin Salman Al Saud",
+   "rol": "Founder",
+   "sirket": "Alat",
+   "ulke": "Suudi Arabistan",
+   "sektor": "electronics industry"
+  },
+  {
+   "isim": "Mohammed Saleh al-Bejadi",
+   "rol": "Founder",
+   "sirket": "Saudi Civil and Political Rights Association",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Abdulrahman al-Hamid",
+   "rol": "Founder",
+   "sirket": "Saudi Civil and Political Rights Association",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Sharafaldeen Bin Nafisah",
+   "rol": "Founder",
+   "sirket": "Disaster Management Experts Club",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Shahrān ibn ʻifris",
+   "rol": "Founder",
+   "sirket": "Shahran",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Mohammad Fahad al-Qahtani",
+   "rol": "Founder",
+   "sirket": "Saudi Civil and Political Rights Association",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Masayoshi Son",
+   "rol": "Founder",
+   "sirket": "SoftBank Vision Fund",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Mohammed bin Salman Al Saud",
+   "rol": "Founder",
+   "sirket": "MiSK Foundation",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Mohamed Bamashmous",
+   "rol": "Founder",
+   "sirket": "AQUA Dent Clinics",
+   "ulke": "Suudi Arabistan",
+   "sektor": "dentistry"
+  },
+  {
+   "isim": "Sultan Almalki",
+   "rol": "Founder",
+   "sirket": "Ejaz Electronic Publishing Company",
+   "ulke": "Suudi Arabistan",
+   "sektor": "mass media"
+  },
+  {
+   "isim": "Issa al-Hamid",
+   "rol": "Founder",
+   "sirket": "Saudi Civil and Political Rights Association",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Jari Almuntshiri",
+   "rol": "Founder",
+   "sirket": "Dlight",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Salman bin Abdulaziz Al Saud",
+   "rol": "Founder",
+   "sirket": "State Security Presidium",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Khalid bin Faisal Al Saud",
+   "rol": "Founder",
+   "sirket": "Abha Prize",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Ibrahim Abd al-Aziz al-Assaf",
+   "rol": "Founder",
+   "sirket": "King Abdullah Financial District",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Zain-Alabdin Tawfiq",
+   "rol": "Founder",
+   "sirket": "Sarahah",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Salman bin Abdulaziz Al Saud",
+   "rol": "Founder",
+   "sirket": "Air Warfare Center",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Salman bin Abdulaziz Al Saud",
+   "rol": "Founder",
+   "sirket": "king Salman Prize",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Salman bin Abdulaziz Al Saud",
+   "rol": "Founder",
+   "sirket": "King Salman Park",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Salman bin Abdulaziz Al Saud",
+   "rol": "Founder",
+   "sirket": "Saudi High Commission for Aid to Bosnia",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Abdulaziz Alsaeedi",
+   "rol": "Founder",
+   "sirket": "MNM Company",
+   "ulke": "Suudi Arabistan",
+   "sektor": "mass media"
+  },
+  {
+   "isim": "Muḥammad ʻAlī dawlah",
+   "rol": "Founder",
+   "sirket": "Dār Al-Bashīr'",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Haifa bint Faisal",
+   "rol": "Founder",
+   "sirket": "Al Baydha Project",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Arwa AlAbdulaziz",
+   "rol": "Founder",
+   "sirket": "Rawiah",
+   "ulke": "Suudi Arabistan",
+   "sektor": "language education"
+  },
+  {
+   "isim": "Hussein Al-Ja'ba",
+   "rol": "Founder",
+   "sirket": "Al-Nassr",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Muhammad Al-Munajjid",
+   "rol": "Founder",
+   "sirket": "Islam Questions & Answers",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
    "isim": "Michelle Jarrard",
    "rol": "Board Member",
    "sirket": "Lazard",
@@ -420,27 +847,6 @@
    "sirket": "Saudi Aramco",
    "ulke": "Suudi Arabistan",
    "sektor": "petroleum industry"
-  },
-  {
-   "isim": "Laila Bamashmous",
-   "rol": "Board Member",
-   "sirket": "AQUA Dent Clinics",
-   "ulke": "Suudi Arabistan",
-   "sektor": "dentistry"
-  },
-  {
-   "isim": "Jamil Aref",
-   "rol": "Board Member",
-   "sirket": "AQUA Dent Clinics",
-   "ulke": "Suudi Arabistan",
-   "sektor": "dentistry"
-  },
-  {
-   "isim": "Jehad Aref",
-   "rol": "Board Member",
-   "sirket": "AQUA Dent Clinics",
-   "ulke": "Suudi Arabistan",
-   "sektor": "dentistry"
   },
   {
    "isim": "Per Utnegaard",
@@ -506,13 +912,6 @@
    "sektor": "petroleum industry"
   },
   {
-   "isim": "Mohamed Bamashmous",
-   "rol": "Board Member",
-   "sirket": "AQUA Dent Clinics",
-   "ulke": "Suudi Arabistan",
-   "sektor": "dentistry"
-  },
-  {
    "isim": "Thoraya Obaid",
    "rol": "Board Member",
    "sirket": "King Abdullah Biography Documentation Center",
@@ -530,342 +929,6 @@
    "isim": "Abdul Hamid bin Mohammed Al-Sulaiman",
    "rol": "Board Member",
    "sirket": "King Abdullah Biography Documentation Center",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Majed M. Al Tahan",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Basmah bint Saud",
-   "rol": "Entrepreneur",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Sheila Al-Rowaily",
-   "rol": "Banker",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Khālid al Jarayshī",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Mo Gawdat",
-   "rol": "Businessperson",
-   "sirket": "Google",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Afnan AlShuaiby",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Lama bint Turki Al Saud",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Hussein Al-Ja'ba",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Abd al-Rahman Fakih",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Turki Faisal Al Rasheed",
-   "rol": "Entrepreneur",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Zuhair Ghunaim",
-   "rol": "Entrepreneur",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Fatin Youssef Bundagji",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Sora bint Saud Al Saud",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Deena Al Faris",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Fareeda Al-Farisi",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Rasha Hefzi",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Nora Al-Shaaban",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Sawsan al-Bahiti",
-   "rol": "Entrepreneur",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Kamal Al-Yahya",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Saud Bin Salman bin Abdulaziz al Saud",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Abd Allah bin Laden",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Ayman Hariri",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Khaled bin Talal bin Abdul Aziz Al Saud",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Khalid Abdullah Almolhem",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Khalid A. Al-Falih",
-   "rol": "Entrepreneur",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Khaled Juffali",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Fouzi Ayoub Sabri",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Sarah Al-Souhaimi",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Emad Khashoggi",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Laith Pharaon",
-   "rol": "Entrepreneur",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Nayef bin Mamdouh bin Abdulaziz Al Saud",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Nahed Taher",
-   "rol": "Banker",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Yasir Al-Rumayyan",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Saud bin Fahd bin Abdulaziz Al Saud",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Abdulaziz bin Fahad bin Abdulaziz Al Saud",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Faisal bin Farhan",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Alwaleed Bin Talal Bin Abdulaziz Al Saud",
-   "rol": "Entrepreneur",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Huda Al-Ghoson",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Yasir Hamad Seaidan",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Sultan bin Khalid Al Faisal Al Saud",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Faisal bin Abdullah bin Mohammed Al Saud",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Sabih al-Masri",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Mohammed Hussein Al Amoudi",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Saad Harirị",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Ahmed Sulaiman Abdulaziz Al Rajhi",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Turki bin Muqrin bin Abdul-Aziz",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Turki bin Salman Al Saud",
-   "rol": "Entrepreneur",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Faisal bin Sultan bin Abdulaziz Al Saud",
-   "rol": "Businessperson",
-   "sirket": "",
    "ulke": "Suudi Arabistan",
    "sektor": ""
   },
@@ -1374,6 +1437,335 @@
    "sektor": ""
   },
   {
+   "isim": "Majed M. Al Tahan",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Basmah bint Saud",
+   "rol": "Entrepreneur",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Sheila Al-Rowaily",
+   "rol": "Banker",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Khālid al Jarayshī",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Mo Gawdat",
+   "rol": "Businessperson",
+   "sirket": "Google",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Afnan AlShuaiby",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Lama bint Turki Al Saud",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Hussein Al-Ja'ba",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Abd al-Rahman Fakih",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Turki Faisal Al Rasheed",
+   "rol": "Entrepreneur",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Zuhair Ghunaim",
+   "rol": "Entrepreneur",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Fatin Youssef Bundagji",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Sora bint Saud Al Saud",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Lama Al-Sulaiman",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Lina K. Almaeena",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Nora Al-Shaaban",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Sawsan al-Bahiti",
+   "rol": "Entrepreneur",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Kamal Al-Yahya",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Saud Bin Salman bin Abdulaziz al Saud",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Abd Allah bin Laden",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Ayman Hariri",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Khaled bin Talal bin Abdul Aziz Al Saud",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Khalid Abdullah Almolhem",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Khalid A. Al-Falih",
+   "rol": "Entrepreneur",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Khaled Juffali",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Fouzi Ayoub Sabri",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Sarah Al-Souhaimi",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Emad Khashoggi",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Laith Pharaon",
+   "rol": "Entrepreneur",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Nayef bin Mamdouh bin Abdulaziz Al Saud",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Nahed Taher",
+   "rol": "Banker",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Yasir Al-Rumayyan",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Saud bin Fahd bin Abdulaziz Al Saud",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Abdulaziz bin Fahad bin Abdulaziz Al Saud",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Faisal bin Farhan",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Alwaleed Bin Talal Bin Abdulaziz Al Saud",
+   "rol": "Entrepreneur",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Huda Al-Ghoson",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Yasir Hamad Seaidan",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Sultan bin Khalid Al Faisal Al Saud",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Faisal bin Abdullah bin Mohammed Al Saud",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Sabih al-Masri",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Mohammed Hussein Al Amoudi",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Saad Harirị",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Ahmed Sulaiman Abdulaziz Al Rajhi",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Turki bin Muqrin bin Abdul-Aziz",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Turki bin Salman Al Saud",
+   "rol": "Entrepreneur",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Faisal bin Sultan bin Abdulaziz Al Saud",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
    "isim": "Sumaya Alnasser",
    "rol": "Businessperson",
    "sirket": "",
@@ -1384,13 +1776,6 @@
    "isim": "Mansour bin Nasser Al Saud",
    "rol": "Businessperson",
    "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Ali Alkinani",
-   "rol": "Entrepreneur",
-   "sirket": "Bithrah Tech",
    "ulke": "Suudi Arabistan",
    "sektor": ""
   },
@@ -1479,22 +1864,22 @@
    "sektor": ""
   },
   {
-   "isim": "Lama Al-Sulaiman",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Lina K. Almaeena",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
    "isim": "Enji Al-Ghazzawi",
    "rol": "Banker",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Deena Al Faris",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Fareeda Al-Farisi",
+   "rol": "Businessperson",
    "sirket": "",
    "ulke": "Suudi Arabistan",
    "sektor": ""
@@ -1508,6 +1893,13 @@
   },
   {
    "isim": "Nashwa Taher",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "Suudi Arabistan",
+   "sektor": ""
+  },
+  {
+   "isim": "Rasha Hefzi",
    "rol": "Businessperson",
    "sirket": "",
    "ulke": "Suudi Arabistan",
@@ -1566,13 +1958,6 @@
    "isim": "Abdullatif bin Ahmed Al Fozan",
    "rol": "Businessperson",
    "sirket": "",
-   "ulke": "Suudi Arabistan",
-   "sektor": ""
-  },
-  {
-   "isim": "Jari Almuntshiri",
-   "rol": "Entrepreneur",
-   "sirket": "Dlight",
    "ulke": "Suudi Arabistan",
    "sektor": ""
   },
@@ -2046,25 +2431,11 @@
    "sektor": ""
   },
   {
-   "isim": "Sarah Koben",
-   "rol": "Founder",
-   "sirket": "Saint Objets",
-   "ulke": "BAE",
-   "sektor": "furniture industry"
-  },
-  {
    "isim": "Alessandro D'Ubaldo",
    "rol": "Founder",
    "sirket": "800 PIZZA",
    "ulke": "BAE",
    "sektor": ""
-  },
-  {
-   "isim": "Tim Jacobs",
-   "rol": "Founder",
-   "sirket": "KTS Global",
-   "ulke": "BAE",
-   "sektor": "strategic communication"
   },
   {
    "isim": "Hanane Benkhallouk",
@@ -2081,11 +2452,11 @@
    "sektor": ""
   },
   {
-   "isim": "Sophie Solmini",
+   "isim": "Bob Diamond",
    "rol": "Founder",
-   "sirket": "Elite Resilience Coaching",
+   "sirket": "Atlas Mara Limited",
    "ulke": "BAE",
-   "sektor": "substance abuse treatment"
+   "sektor": "bank"
   },
   {
    "isim": "Elena Agaragimova",
@@ -2102,18 +2473,18 @@
    "sektor": "educational technology"
   },
   {
+   "isim": "Humaid bin Rashid Al Nuaimi",
+   "rol": "Founder",
+   "sirket": "Ajman Museum",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
    "isim": "Ciprian Ciceu",
    "rol": "Founder",
    "sirket": "Mainet X",
    "ulke": "BAE",
    "sektor": "financial services"
-  },
-  {
-   "isim": "Henri Al Helaly",
-   "rol": "Founder",
-   "sirket": "EXILLIUM",
-   "ulke": "BAE",
-   "sektor": "business consulting"
   },
   {
    "isim": "Jonas Eric Werner",
@@ -2151,13 +2522,6 @@
    "sektor": ""
   },
   {
-   "isim": "Aleksei Shchapov",
-   "rol": "Founder",
-   "sirket": "Pegasus Leaders",
-   "ulke": "BAE",
-   "sektor": "luxury good"
-  },
-  {
    "isim": "Ahmed Obaid AlMansoori",
    "rol": "Founder",
    "sirket": "Holocaust Memorial Gallery in Dubai",
@@ -2172,46 +2536,11 @@
    "sektor": ""
   },
   {
-   "isim": "Ahmad Alnaji",
-   "rol": "Founder",
-   "sirket": "Sarab Art Production",
-   "ulke": "BAE",
-   "sektor": "photography"
-  },
-  {
-   "isim": "Loren Holland",
-   "rol": "Founder",
-   "sirket": "GymNation",
-   "ulke": "BAE",
-   "sektor": "fitness industry"
-  },
-  {
-   "isim": "Frank Afeaki",
-   "rol": "Founder",
-   "sirket": "GymNation",
-   "ulke": "BAE",
-   "sektor": "fitness industry"
-  },
-  {
-   "isim": "Ant Martland",
-   "rol": "Founder",
-   "sirket": "GymNation",
-   "ulke": "BAE",
-   "sektor": "fitness industry"
-  },
-  {
    "isim": "Wassim Slaiby",
    "rol": "Founder",
    "sirket": "Universal Music MENA",
    "ulke": "BAE",
    "sektor": ""
-  },
-  {
-   "isim": "Ulugbek Yuldashev",
-   "rol": "Founder",
-   "sirket": "Awok",
-   "ulke": "BAE",
-   "sektor": "e-commerce"
   },
   {
    "isim": "Julian Sperring-Toy",
@@ -2221,18 +2550,11 @@
    "sektor": "financial adviser"
   },
   {
-   "isim": "Mondoir",
+   "isim": "Mohammed bin Rashid Al Maktoum",
    "rol": "Founder",
-   "sirket": "Mondoir gallery",
+   "sirket": "New Media Academy",
    "ulke": "BAE",
    "sektor": ""
-  },
-  {
-   "isim": "Sunil John",
-   "rol": "Founder",
-   "sirket": "asda'a bcw",
-   "ulke": "BAE",
-   "sektor": "public relations"
   },
   {
    "isim": "Mohammed Bin Zayed Al Nahyan",
@@ -2263,16 +2585,9 @@
    "sektor": ""
   },
   {
-   "isim": "Lavanya Vikram",
+   "isim": "Ahmed Abd Al Qadir",
    "rol": "Founder",
-   "sirket": "Blush N Curls",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Special K (SY)",
-   "rol": "Founder",
-   "sirket": "Desert Dream Community",
+   "sirket": "Arabic IT News Portal",
    "ulke": "BAE",
    "sektor": ""
   },
@@ -2291,18 +2606,11 @@
    "sektor": ""
   },
   {
-   "isim": "Amir Soleymani",
+   "isim": "Juma Al Majid",
    "rol": "Founder",
-   "sirket": "Mondoir gallery",
+   "sirket": "Juma AI-Majid Center for Culture and Heritage",
    "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Safi Ghauri",
-   "rol": "Founder",
-   "sirket": "Esquare Legal",
-   "ulke": "BAE",
-   "sektor": ""
+   "sektor": "higher education"
   },
   {
    "isim": "Jordan Lee",
@@ -2319,30 +2627,30 @@
    "sektor": ""
   },
   {
-   "isim": "Yaroslav Ivanov",
+   "isim": "Sultan Sooud Al-Qassemi",
    "rol": "Founder",
-   "sirket": "ALTA Blockchain Labs",
-   "ulke": "BAE",
-   "sektor": "cryptocurrency"
-  },
-  {
-   "isim": "Jo An Bito Onon Amen Amen",
-   "rol": "Founder",
-   "sirket": "Formenzo",
+   "sirket": "Barjeel Art Foundation",
    "ulke": "BAE",
    "sektor": ""
-  },
-  {
-   "isim": "Svenja Maltzahn",
-   "rol": "Founder",
-   "sirket": "Sumea Social",
-   "ulke": "BAE",
-   "sektor": "marketing"
   },
   {
    "isim": "Shahida Salam",
    "rol": "Founder",
    "sirket": "Pristine Private School",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Elliott Panam-Moody",
+   "rol": "Founder",
+   "sirket": "The Brand Identity",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Sultan bin Mohamed Al-Qasimi",
+   "rol": "Founder",
+   "sirket": "Sharjah Equestrian and Racing Club",
    "ulke": "BAE",
    "sektor": ""
   },
@@ -2354,30 +2662,16 @@
    "sektor": "television production"
   },
   {
-   "isim": "Zahra Ali",
+   "isim": "Ashish Thakkar",
    "rol": "Founder",
-   "sirket": "Zahra Ali Photography",
+   "sirket": "Mara Group",
    "ulke": "BAE",
-   "sektor": "photography"
+   "sektor": "conglomerate"
   },
   {
-   "isim": "Suhail al-Abdool",
+   "isim": "Juma Al Majid",
    "rol": "Founder",
-   "sirket": "Al Abdool",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Horst Jicha",
-   "rol": "Founder",
-   "sirket": "USI Tech",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Joao Severino",
-   "rol": "Founder",
-   "sirket": "USI Tech",
+   "sirket": "Kullīyat al-Dirāsāt al-Islāmīyah wa-al-ʻArabīyah",
    "ulke": "BAE",
    "sektor": ""
   },
@@ -2387,6 +2681,13 @@
    "sirket": "Ascira",
    "ulke": "BAE",
    "sektor": ""
+  },
+  {
+   "isim": "Mansour bin Zayed Al Nahyan",
+   "rol": "Founder",
+   "sirket": "Abu Dhabi United Group",
+   "ulke": "BAE",
+   "sektor": "sport"
   },
   {
    "isim": "Ambreen Qureshi",
@@ -2403,13 +2704,6 @@
    "sektor": ""
   },
   {
-   "isim": "Kavita Tiwari",
-   "rol": "Founder",
-   "sirket": "Divine Sansar",
-   "ulke": "BAE",
-   "sektor": "e-commerce"
-  },
-  {
    "isim": "Venizelos G. Gavrilakis",
    "rol": "Founder",
    "sirket": "Venis Studios",
@@ -2424,18 +2718,18 @@
    "sektor": ""
   },
   {
-   "isim": "Nadiya Albishchenko",
-   "rol": "Founder",
-   "sirket": "INAS ExIm LLC",
-   "ulke": "BAE",
-   "sektor": "food trade"
-  },
-  {
    "isim": "Jose Mohan",
    "rol": "Founder",
    "sirket": "Middle East Professional Boxing",
    "ulke": "BAE",
    "sektor": ""
+  },
+  {
+   "isim": "Hugo Cugnet",
+   "rol": "Founder",
+   "sirket": "Wusool Capital",
+   "ulke": "BAE",
+   "sektor": "mergers and acquisitions"
   },
   {
    "isim": "Omar Gull",
@@ -2445,18 +2739,25 @@
    "sektor": "real estate development"
   },
   {
-   "isim": "Akylzhan Raissov",
+   "isim": "Sarah Koben",
    "rol": "Founder",
-   "sirket": "YallaMedia",
+   "sirket": "Saint Objets",
+   "ulke": "BAE",
+   "sektor": "furniture industry"
+  },
+  {
+   "isim": "Sebastian Scheplitz",
+   "rol": "Founder",
+   "sirket": "Deckmetric",
    "ulke": "BAE",
    "sektor": ""
   },
   {
-   "isim": "Akylzhan Raissov",
+   "isim": "Tim Jacobs",
    "rol": "Founder",
-   "sirket": "Yalla Influencers",
+   "sirket": "KTS Global",
    "ulke": "BAE",
-   "sektor": ""
+   "sektor": "strategic communication"
   },
   {
    "isim": "Ibrahim Kedir",
@@ -2466,53 +2767,18 @@
    "sektor": "automotive industry"
   },
   {
-   "isim": "Husain Al Ali",
+   "isim": "Neill Frank",
    "rol": "Founder",
-   "sirket": "Husain Al Ali Advocates & Legal Consultants",
+   "sirket": "Pythia Technologies",
    "ulke": "BAE",
-   "sektor": ""
+   "sektor": "fintech"
   },
   {
-   "isim": "Mustafa Maghraby",
+   "isim": "Sophie Solmini",
    "rol": "Founder",
-   "sirket": "DUBZ",
+   "sirket": "Elite Resilience Coaching",
    "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Mustafa Khamash",
-   "rol": "Founder",
-   "sirket": "Kart Group",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Lana Al Kamal",
-   "rol": "Founder",
-   "sirket": "Lana Al Kamal Jewelry",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Danish Farhan",
-   "rol": "Founder",
-   "sirket": "Xische & Co",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Sanjay Parashar",
-   "rol": "Founder",
-   "sirket": "Cocoona Centre for Aesthetic Transformation",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Hasan Babat",
-   "rol": "Founder",
-   "sirket": "Tuscan Consulting",
-   "ulke": "BAE",
-   "sektor": "human resource management"
+   "sektor": "substance abuse treatment"
   },
   {
    "isim": "Kalpesh Desai",
@@ -2520,13 +2786,6 @@
    "sirket": "Agile Financial Technologies",
    "ulke": "BAE",
    "sektor": "insurtech"
-  },
-  {
-   "isim": "Faruh Kurbanov",
-   "rol": "Founder",
-   "sirket": "DIA Holding",
-   "ulke": "BAE",
-   "sektor": "industrial manufacturing"
   },
   {
    "isim": "Ahmad Mahmood",
@@ -2543,11 +2802,18 @@
    "sektor": "management consulting and management services; information technology services"
   },
   {
-   "isim": "Wahaj Siddiqui",
+   "isim": "Aleksei Shchapov",
    "rol": "Founder",
-   "sirket": "Oblique Consult",
+   "sirket": "Pegasus Leaders",
    "ulke": "BAE",
-   "sektor": "tax"
+   "sektor": "luxury good"
+  },
+  {
+   "isim": "Ahmad Alnaji",
+   "rol": "Founder",
+   "sirket": "Sarab Art Production",
+   "ulke": "BAE",
+   "sektor": "photography"
   },
   {
    "isim": "Nadeem Akhtar",
@@ -2555,6 +2821,13 @@
    "sirket": "Crickslab",
    "ulke": "BAE",
    "sektor": "sports technology"
+  },
+  {
+   "isim": "Mondoir",
+   "rol": "Founder",
+   "sirket": "Mondoir gallery",
+   "ulke": "BAE",
+   "sektor": ""
   },
   {
    "isim": "Usman Arshaad",
@@ -2592,46 +2865,25 @@
    "sektor": "marketing"
   },
   {
-   "isim": "Osman Daggezen",
+   "isim": "Lavanya Vikram",
    "rol": "Founder",
-   "sirket": "OD Pharma Consulting",
+   "sirket": "Blush N Curls",
    "ulke": "BAE",
-   "sektor": "business and other management consultancy activities"
+   "sektor": ""
   },
   {
-   "isim": "Jérôme Aupin",
+   "isim": "Special K (SY)",
    "rol": "Founder",
-   "sirket": "JAUPIN",
+   "sirket": "Desert Dream Community",
    "ulke": "BAE",
-   "sektor": "eyewear"
+   "sektor": ""
   },
   {
-   "isim": "Paul Templeton",
+   "isim": "Fernando Cavalher",
    "rol": "Founder",
-   "sirket": "Templeton Global Search",
+   "sirket": "Unus Mundus",
    "ulke": "BAE",
-   "sektor": "mining"
-  },
-  {
-   "isim": "Nejc Soklic",
-   "rol": "Founder",
-   "sirket": "Dubai Prod",
-   "ulke": "BAE",
-   "sektor": "marketing"
-  },
-  {
-   "isim": "Eric Yingchao Ma",
-   "rol": "Founder",
-   "sirket": "WeCarbon",
-   "ulke": "BAE",
-   "sektor": "artificial intelligence"
-  },
-  {
-   "isim": "Remoca Yiran Shi",
-   "rol": "Founder",
-   "sirket": "WeCarbon",
-   "ulke": "BAE",
-   "sektor": "artificial intelligence"
+   "sektor": "management consultancy activities"
   },
   {
    "isim": "Taifun Kemerci",
@@ -2641,32 +2893,67 @@
    "sektor": ""
   },
   {
-   "isim": "Anna Hazlett",
+   "isim": "Amir Soleymani",
    "rol": "Founder",
-   "sirket": "AzurX",
+   "sirket": "Mondoir gallery",
    "ulke": "BAE",
    "sektor": ""
   },
   {
-   "isim": "Mariane Nunes",
+   "isim": "Safi Ghauri",
    "rol": "Founder",
-   "sirket": "Nahy Real Estate L.L.C.",
+   "sirket": "Esquare Legal",
    "ulke": "BAE",
-   "sektor": "Real Estate"
+   "sektor": ""
   },
   {
-   "isim": "Loan Laux",
+   "isim": "Christopher Pail",
    "rol": "Founder",
-   "sirket": "out:grow",
+   "sirket": "SPARQ",
    "ulke": "BAE",
-   "sektor": "business and other management consultancy activities"
+   "sektor": "video game industry"
   },
   {
-   "isim": "Sajid Manzur",
+   "isim": "Yaroslav Ivanov",
    "rol": "Founder",
-   "sirket": "Akwad",
+   "sirket": "ALTA Blockchain Labs",
    "ulke": "BAE",
-   "sektor": "software engineering"
+   "sektor": "cryptocurrency"
+  },
+  {
+   "isim": "Selima Sfar",
+   "rol": "Founder",
+   "sirket": "Unus Mundus",
+   "ulke": "BAE",
+   "sektor": "management consultancy activities"
+  },
+  {
+   "isim": "Jo An Bito Onon Amen Amen",
+   "rol": "Founder",
+   "sirket": "Formenzo",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Svenja Maltzahn",
+   "rol": "Founder",
+   "sirket": "Sumea Social",
+   "ulke": "BAE",
+   "sektor": "marketing"
+  },
+  {
+   "isim": "Jonathan Sémon",
+   "rol": "Founder",
+   "sirket": "GEOTAX",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Fahad Iqbal Butt",
+   "rol": "Founder",
+   "sirket": "Backyard Studio Official",
+   "ulke": "BAE",
+   "sektor": ""
   },
   {
    "isim": "Tarek Bayazid",
@@ -2683,18 +2970,11 @@
    "sektor": ""
   },
   {
-   "isim": "Denis Salatin",
+   "isim": "Zahra Ali",
    "rol": "Founder",
-   "sirket": "Tolmete",
+   "sirket": "Zahra Ali Photography",
    "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Antonio De Rosa",
-   "rol": "Founder",
-   "sirket": "ADR Studio",
-   "ulke": "BAE",
-   "sektor": ""
+   "sektor": "photography"
   },
   {
    "isim": "Amir Syeed",
@@ -2702,13 +2982,6 @@
    "sirket": "Animated Times",
    "ulke": "BAE",
    "sektor": ""
-  },
-  {
-   "isim": "Nimit Solanki",
-   "rol": "Founder",
-   "sirket": "estaie",
-   "ulke": "BAE",
-   "sektor": "hospitality industry"
   },
   {
    "isim": "Alik Tarraf",
@@ -2725,11 +2998,18 @@
    "sektor": ""
   },
   {
-   "isim": "Khalil Alsalim",
+   "isim": "Jules Chasles",
    "rol": "Founder",
-   "sirket": "Ravinaro",
+   "sirket": "Wusool Capital",
    "ulke": "BAE",
-   "sektor": "artificial intelligence"
+   "sektor": "mergers and acquisitions"
+  },
+  {
+   "isim": "Christoffer Wilhelmsen",
+   "rol": "Founder",
+   "sirket": "SPARQ",
+   "ulke": "BAE",
+   "sektor": "video game industry"
   },
   {
    "isim": "Khabib Nurmagomedov",
@@ -2739,6 +3019,13 @@
    "sektor": ""
   },
   {
+   "isim": "Daniel Spatari",
+   "rol": "Founder",
+   "sirket": "Ghost Revenue",
+   "ulke": "BAE",
+   "sektor": "software industry"
+  },
+  {
    "isim": "Anwesha Bose",
    "rol": "Founder",
    "sirket": "BlueMint Services",
@@ -2746,39 +3033,39 @@
    "sektor": "marketing"
   },
   {
-   "isim": "Yazan Al Assadi",
+   "isim": "Kavita Tiwari",
    "rol": "Founder",
-   "sirket": "Taron Media",
+   "sirket": "Divine Sansar",
+   "ulke": "BAE",
+   "sektor": "e-commerce"
+  },
+  {
+   "isim": "Nadiya Albishchenko",
+   "rol": "Founder",
+   "sirket": "INAS ExIm LLC",
+   "ulke": "BAE",
+   "sektor": "food trade"
+  },
+  {
+   "isim": "Akylzhan Raissov",
+   "rol": "Founder",
+   "sirket": "YallaMedia",
    "ulke": "BAE",
    "sektor": ""
   },
   {
-   "isim": "Fahed Bizzari",
+   "isim": "Akylzhan Raissov",
    "rol": "Founder",
-   "sirket": "Bellamy Alden",
-   "ulke": "BAE",
-   "sektor": "business and other management consultancy activities"
-  },
-  {
-   "isim": "Hugo Cugnet",
-   "rol": "Founder",
-   "sirket": "Wusool Capital",
-   "ulke": "BAE",
-   "sektor": "mergers and acquisitions"
-  },
-  {
-   "isim": "Sebastian Scheplitz",
-   "rol": "Founder",
-   "sirket": "Deckmetric",
+   "sirket": "Yalla Influencers",
    "ulke": "BAE",
    "sektor": ""
   },
   {
-   "isim": "Neill Frank",
+   "isim": "Husain Al Ali",
    "rol": "Founder",
-   "sirket": "Pythia Technologies",
+   "sirket": "Husain Al Ali Advocates & Legal Consultants",
    "ulke": "BAE",
-   "sektor": "fintech"
+   "sektor": ""
   },
   {
    "isim": "Divyank Turakhia",
@@ -2788,16 +3075,9 @@
    "sektor": ""
   },
   {
-   "isim": "Bob Diamond",
+   "isim": "Mustafa Maghraby",
    "rol": "Founder",
-   "sirket": "Atlas Mara Limited",
-   "ulke": "BAE",
-   "sektor": "bank"
-  },
-  {
-   "isim": "Humaid bin Rashid Al Nuaimi",
-   "rol": "Founder",
-   "sirket": "Ajman Museum",
+   "sirket": "DUBZ",
    "ulke": "BAE",
    "sektor": ""
   },
@@ -2809,11 +3089,39 @@
    "sektor": "media industry"
   },
   {
-   "isim": "Michael Lahyani",
+   "isim": "Mustafa Khamash",
    "rol": "Founder",
-   "sirket": "Property Finder",
+   "sirket": "Kart Group",
    "ulke": "BAE",
    "sektor": ""
+  },
+  {
+   "isim": "Lana Al Kamal",
+   "rol": "Founder",
+   "sirket": "Lana Al Kamal Jewelry",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Danish Farhan",
+   "rol": "Founder",
+   "sirket": "Xische & Co",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Sanjay Parashar",
+   "rol": "Founder",
+   "sirket": "Cocoona Centre for Aesthetic Transformation",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Hasan Babat",
+   "rol": "Founder",
+   "sirket": "Tuscan Consulting",
+   "ulke": "BAE",
+   "sektor": "human resource management"
   },
   {
    "isim": "Ralph Debbas",
@@ -2830,11 +3138,25 @@
    "sektor": ""
   },
   {
+   "isim": "Faruh Kurbanov",
+   "rol": "Founder",
+   "sirket": "DIA Holding",
+   "ulke": "BAE",
+   "sektor": "industrial manufacturing"
+  },
+  {
    "isim": "Mohamed Atiya",
    "rol": "Founder",
    "sirket": "Emaar Properties",
    "ulke": "BAE",
    "sektor": "real estate development"
+  },
+  {
+   "isim": "Ulugbek Yuldashev",
+   "rol": "Founder",
+   "sirket": "Awok",
+   "ulke": "BAE",
+   "sektor": "e-commerce"
   },
   {
    "isim": "Mohammed bin Rashid Al Maktoum",
@@ -2851,11 +3173,11 @@
    "sektor": "retail"
   },
   {
-   "isim": "Mohammed bin Rashid Al Maktoum",
+   "isim": "Sunil John",
    "rol": "Founder",
-   "sirket": "New Media Academy",
+   "sirket": "asda'a bcw",
    "ulke": "BAE",
-   "sektor": ""
+   "sektor": "public relations"
   },
   {
    "isim": "Mohammed bin Rashid Al Maktoum",
@@ -2893,6 +3215,34 @@
    "sektor": ""
   },
   {
+   "isim": "Osman Daggezen",
+   "rol": "Founder",
+   "sirket": "OD Pharma Consulting",
+   "ulke": "BAE",
+   "sektor": "business and other management consultancy activities"
+  },
+  {
+   "isim": "Jérôme Aupin",
+   "rol": "Founder",
+   "sirket": "JAUPIN",
+   "ulke": "BAE",
+   "sektor": "eyewear"
+  },
+  {
+   "isim": "Paul Templeton",
+   "rol": "Founder",
+   "sirket": "Templeton Global Search",
+   "ulke": "BAE",
+   "sektor": "mining"
+  },
+  {
+   "isim": "Nejc Soklic",
+   "rol": "Founder",
+   "sirket": "Dubai Prod",
+   "ulke": "BAE",
+   "sektor": "marketing"
+  },
+  {
    "isim": "Mohammed bin Rashid Al Maktoum",
    "rol": "Founder",
    "sirket": "Real Estate Regulatory Agency",
@@ -2907,20 +3257,6 @@
    "sektor": ""
   },
   {
-   "isim": "Ahmed Abd Al Qadir",
-   "rol": "Founder",
-   "sirket": "Arabic IT News Portal",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Fernando Cavalher",
-   "rol": "Founder",
-   "sirket": "Unus Mundus",
-   "ulke": "BAE",
-   "sektor": "management consultancy activities"
-  },
-  {
    "isim": "John Sexton",
    "rol": "Founder",
    "sirket": "New York University Abu Dhabi",
@@ -2928,11 +3264,18 @@
    "sektor": ""
   },
   {
-   "isim": "Juma Al Majid",
+   "isim": "Remoca Yiran Shi",
    "rol": "Founder",
-   "sirket": "Juma AI-Majid Center for Culture and Heritage",
+   "sirket": "WeCarbon",
    "ulke": "BAE",
-   "sektor": "higher education"
+   "sektor": "artificial intelligence"
+  },
+  {
+   "isim": "Eric Yingchao Ma",
+   "rol": "Founder",
+   "sirket": "WeCarbon",
+   "ulke": "BAE",
+   "sektor": "artificial intelligence"
   },
   {
    "isim": "B. R. Shetty",
@@ -2942,25 +3285,32 @@
    "sektor": "health"
   },
   {
-   "isim": "Christopher Pail",
+   "isim": "Anna Hazlett",
    "rol": "Founder",
-   "sirket": "SPARQ",
-   "ulke": "BAE",
-   "sektor": "video game industry"
-  },
-  {
-   "isim": "Sultan Sooud Al-Qassemi",
-   "rol": "Founder",
-   "sirket": "Barjeel Art Foundation",
+   "sirket": "AzurX",
    "ulke": "BAE",
    "sektor": ""
   },
   {
-   "isim": "Selima Sfar",
+   "isim": "Mariane Nunes",
    "rol": "Founder",
-   "sirket": "Unus Mundus",
+   "sirket": "Nahy Real Estate L.L.C.",
    "ulke": "BAE",
-   "sektor": "management consultancy activities"
+   "sektor": "Real Estate"
+  },
+  {
+   "isim": "Loan Laux",
+   "rol": "Founder",
+   "sirket": "out:grow",
+   "ulke": "BAE",
+   "sektor": "business and other management consultancy activities"
+  },
+  {
+   "isim": "Sajid Manzur",
+   "rol": "Founder",
+   "sirket": "Akwad",
+   "ulke": "BAE",
+   "sektor": "software engineering"
   },
   {
    "isim": "Patu Keswani",
@@ -2968,20 +3318,6 @@
    "sirket": "Lemon Tree Hotels",
    "ulke": "BAE",
    "sektor": "hospitality industry"
-  },
-  {
-   "isim": "Sultan bin Mohamed Al-Qasimi",
-   "rol": "Founder",
-   "sirket": "Sharjah Equestrian and Racing Club",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Jonathan Sémon",
-   "rol": "Founder",
-   "sirket": "GEOTAX",
-   "ulke": "BAE",
-   "sektor": ""
   },
   {
    "isim": "Ahmed bin Saeed Al Maktoum",
@@ -2998,23 +3334,30 @@
    "sektor": ""
   },
   {
-   "isim": "Fahad Iqbal Butt",
+   "isim": "Suhail al-Abdool",
    "rol": "Founder",
-   "sirket": "Backyard Studio Official",
+   "sirket": "Al Abdool",
    "ulke": "BAE",
    "sektor": ""
   },
   {
-   "isim": "Ashish Thakkar",
+   "isim": "Denis Salatin",
    "rol": "Founder",
-   "sirket": "Mara Group",
+   "sirket": "Tolmete",
    "ulke": "BAE",
-   "sektor": "conglomerate"
+   "sektor": ""
   },
   {
-   "isim": "Juma Al Majid",
+   "isim": "Horst Jicha",
    "rol": "Founder",
-   "sirket": "Kullīyat al-Dirāsāt al-Islāmīyah wa-al-ʻArabīyah",
+   "sirket": "USI Tech",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Joao Severino",
+   "rol": "Founder",
+   "sirket": "USI Tech",
    "ulke": "BAE",
    "sektor": ""
   },
@@ -3026,25 +3369,25 @@
    "sektor": ""
   },
   {
-   "isim": "Jules Chasles",
+   "isim": "Antonio De Rosa",
    "rol": "Founder",
-   "sirket": "Wusool Capital",
+   "sirket": "ADR Studio",
    "ulke": "BAE",
-   "sektor": "mergers and acquisitions"
+   "sektor": ""
   },
   {
-   "isim": "Christoffer Wilhelmsen",
+   "isim": "Nimit Solanki",
    "rol": "Founder",
-   "sirket": "SPARQ",
+   "sirket": "estaie",
    "ulke": "BAE",
-   "sektor": "video game industry"
+   "sektor": "hospitality industry"
   },
   {
-   "isim": "Mansour bin Zayed Al Nahyan",
+   "isim": "Khalil Alsalim",
    "rol": "Founder",
-   "sirket": "Abu Dhabi United Group",
+   "sirket": "Ravinaro",
    "ulke": "BAE",
-   "sektor": "sport"
+   "sektor": "artificial intelligence"
   },
   {
    "isim": "Sultan bin Mohamed Al-Qasimi",
@@ -3068,6 +3411,20 @@
    "sektor": ""
   },
   {
+   "isim": "Yazan Al Assadi",
+   "rol": "Founder",
+   "sirket": "Taron Media",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Fahed Bizzari",
+   "rol": "Founder",
+   "sirket": "Bellamy Alden",
+   "ulke": "BAE",
+   "sektor": "business and other management consultancy activities"
+  },
+  {
    "isim": "Hassan Jameel",
    "rol": "Board Member",
    "sirket": "Family Business Council Gulf",
@@ -3087,216 +3444,6 @@
    "sirket": "Mashreq",
    "ulke": "BAE",
    "sektor": "financial services"
-  },
-  {
-   "isim": "Sumayyah Al Suwaidi",
-   "rol": "Entrepreneur",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Mohamed Hassan Al Suwaidi",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Hend Faisal Al Qassemi",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Gérard Depardieu",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Khadem al-Qubaisi",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Husam Mohamed Alameri",
-   "rol": "Entrepreneur",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Mohammed bin ham",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Khaled Salmeen",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Mohamed Juma Al Shamisi",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Noura Al Kaabi",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Amer Al Ahbabi",
-   "rol": "Entrepreneur",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Shipra Neeraj",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Ahmed bin Saeed Al Maktoum",
-   "rol": "Businessperson",
-   "sirket": "British University in Dubai",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Elissa Freiha",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Anas Bukhash",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Ahmed bin Saeed Al Maktoum",
-   "rol": "Businessperson",
-   "sirket": "Dubai Airports Company",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Ahmed bin Saeed Al Maktoum",
-   "rol": "Businessperson",
-   "sirket": "Dubai Aviation City Corporation",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Ahmed bin Saeed Al Maktoum",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Ahmed bin Saeed Al Maktoum",
-   "rol": "Businessperson",
-   "sirket": "Emirates NBD",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Sulaiman Al-Hattlan",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Hamda Alkhajeh",
-   "rol": "Entrepreneur",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Aisha Al-Nooman",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Rasha Al Danhani",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Sultan Al Jaber",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Anwar Mohammed Gargash",
-   "rol": "Businessperson",
-   "sirket": "United Arab Emirates University",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Andrey Melnichenko",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "George Nader",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Sulaiman Al-Fahim",
-   "rol": "Businessperson",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Muhammad ibn Sulayem",
-   "rol": "Entrepreneur",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
-  },
-  {
-   "isim": "Dr Abdulla Al Nuaimi",
-   "rol": "Entrepreneur",
-   "sirket": "",
-   "ulke": "BAE",
-   "sektor": ""
   },
   {
    "isim": "Sultan bin Ahmed Al Qasimi",
@@ -3832,6 +3979,216 @@
   },
   {
    "isim": "Najla Al Midfa",
+   "rol": "Entrepreneur",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Sumayyah Al Suwaidi",
+   "rol": "Entrepreneur",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Mohamed Hassan Al Suwaidi",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Hend Faisal Al Qassemi",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Gérard Depardieu",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Khadem al-Qubaisi",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Husam Mohamed Alameri",
+   "rol": "Entrepreneur",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Mohammed bin ham",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Khaled Salmeen",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Mohamed Juma Al Shamisi",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Noura Al Kaabi",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Amer Al Ahbabi",
+   "rol": "Entrepreneur",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Shipra Neeraj",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Ahmed bin Saeed Al Maktoum",
+   "rol": "Businessperson",
+   "sirket": "British University in Dubai",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Elissa Freiha",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Anas Bukhash",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Ahmed bin Saeed Al Maktoum",
+   "rol": "Businessperson",
+   "sirket": "Dubai Airports Company",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Ahmed bin Saeed Al Maktoum",
+   "rol": "Businessperson",
+   "sirket": "Dubai Aviation City Corporation",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Ahmed bin Saeed Al Maktoum",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Ahmed bin Saeed Al Maktoum",
+   "rol": "Businessperson",
+   "sirket": "Emirates NBD",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Sulaiman Al-Hattlan",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Hamda Alkhajeh",
+   "rol": "Entrepreneur",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Aisha Al-Nooman",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Rasha Al Danhani",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Sultan Al Jaber",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Anwar Mohammed Gargash",
+   "rol": "Businessperson",
+   "sirket": "United Arab Emirates University",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Andrey Melnichenko",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "George Nader",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Sulaiman Al-Fahim",
+   "rol": "Businessperson",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Muhammad ibn Sulayem",
+   "rol": "Entrepreneur",
+   "sirket": "",
+   "ulke": "BAE",
+   "sektor": ""
+  },
+  {
+   "isim": "Dr Abdulla Al Nuaimi",
    "rol": "Entrepreneur",
    "sirket": "",
    "ulke": "BAE",
