@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27 07:10",
- "total": 1095,
+ "updated": "2026-11-27 18:54",
+ "total": 1097,
  "leads": [
   {
    "isim": "Khalaf Ahmad Al Habtoor",
@@ -14232,6 +14232,32 @@
    "sektor": "",
    "email": "",
    "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Haitham%20bin%20Tarik%20Al%20Said%20Medical%20City%20for%20Military%20and%20Security%20Services",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Newton Isaac",
+   "rol": "CEO",
+   "sirket": "WallSt Digital Media FZC",
+   "ulke": "BAE",
+   "sektor": "digital media",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Newton%20Isaac%20WallSt%20Digital%20Media%20FZC",
+   "web": "",
+   "kaynak": "wikidata",
+   "kabul": "none",
+   "son_temas": ""
+  },
+  {
+   "isim": "Fahad Abdulrahman Badar",
+   "rol": "Banker",
+   "sirket": "The Commercial Bank of Qatar",
+   "ulke": "Katar",
+   "sektor": "",
+   "email": "",
+   "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Fahad%20Abdulrahman%20Badar%20The%20Commercial%20Bank%20of%20Qatar",
    "web": "",
    "kaynak": "wikidata",
    "kabul": "none",
